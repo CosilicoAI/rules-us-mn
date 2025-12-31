@@ -1,0 +1,5849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="MN-Statutes">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-295"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-295"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#mn-legislature"/>
+          <FRBRcountry value="us-mn"/>
+          <FRBRnumber value="295"/>
+          <FRBRname value="Minnesota-Statutes"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-295/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-295/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-295/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-295/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="mn-legislature" href="https://www.revisor.mn.gov" showAs="Minnesota State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_295">
+        <num>295</num>
+        <heading>MinnesotaCare Tax</heading>
+        <section eId="sec_295-01">
+          <num>295.01</num>
+          <heading>Section 295.01</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.01
+295.02
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.01
+Version List
+Recent History
+1996 295.01 Repealed
+1996 c 310 s 1
+295.01
+[Repealed,
+1996 c 310 s 1
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-02">
+          <num>295.02</num>
+          <heading>Section 295.02</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.02
+295.01
+295.021
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.02
+Version List
+295.02
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-03">
+          <num>295.03</num>
+          <heading>Section 295.03</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.03
+295.021
+295.04
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.03
+Version List
+295.03
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-04">
+          <num>295.04</num>
+          <heading>Section 295.04</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.04
+295.03
+295.05
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.04
+Version List
+295.04
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-05">
+          <num>295.05</num>
+          <heading>Section 295.05</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.05
+295.04
+295.06
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.05
+Version List
+295.05
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-06">
+          <num>295.06</num>
+          <heading>Section 295.06</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.06
+295.05
+295.07
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.06
+Version List
+295.06
+[Repealed,
+1969 c 9 s 101
+; 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-07">
+          <num>295.07</num>
+          <heading>Section 295.07</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.07
+295.06
+295.08
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.07
+Version List
+295.07
+[Repealed,
+1969 c 9 s 101
+; 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-08">
+          <num>295.08</num>
+          <heading>Section 295.08</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.08
+295.07
+295.09
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.08
+Version List
+295.08
+[Repealed,
+1969 c 9 s 101
+; 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-09">
+          <num>295.09</num>
+          <heading>Section 295.09</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.09
+295.08
+295.10
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.09
+Version List
+295.09
+[Repealed,
+1969 c 9 s 101
+; 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-10">
+          <num>295.10</num>
+          <heading>Section 295.10</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.10
+295.09
+295.11
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.10
+Version List
+295.10
+[Repealed,
+1969 c 9 s 101
+; 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-11">
+          <num>295.11</num>
+          <heading>Section 295.11</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.11
+295.10
+295.12
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.11
+Version List
+295.11
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-12">
+          <num>295.12</num>
+          <heading>Section 295.12</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.12
+295.11
+295.13
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.12
+Version List
+295.12
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-13">
+          <num>295.13</num>
+          <heading>Section 295.13</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.13
+295.12
+295.14
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.13
+Version List
+295.13
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-14">
+          <num>295.14</num>
+          <heading>Section 295.14</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.14
+295.13
+295.15
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.14
+Version List
+295.14
+[Repealed,
+1979 c 303 art 7 s 15
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-15">
+          <num>295.15</num>
+          <heading>Section 295.15</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.15
+295.14
+295.16
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.15
+Version List
+295.15
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-16">
+          <num>295.16</num>
+          <heading>Section 295.16</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.16
+295.15
+295.17
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.16
+Version List
+295.16
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-17">
+          <num>295.17</num>
+          <heading>Section 295.17</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.17
+295.16
+295.18
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.17
+Version List
+295.17
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-18">
+          <num>295.18</num>
+          <heading>Section 295.18</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.18
+295.17
+295.19
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.18
+Version List
+295.18
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-19">
+          <num>295.19</num>
+          <heading>Section 295.19</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.19
+295.18
+295.20
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.19
+Version List
+295.19
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-20">
+          <num>295.20</num>
+          <heading>Section 295.20</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.20
+295.19
+295.21
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.20
+Version List
+295.20
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-021">
+          <num>295.021</num>
+          <heading>Section 295.021</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.021
+295.02
+295.03
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.021
+Version List
+295.021
+[Repealed,
+1969 c 399 s 51
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-21">
+          <num>295.21</num>
+          <heading>Section 295.21</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.21
+295.20
+295.22
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.21
+Version List
+295.21
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-22">
+          <num>295.22</num>
+          <heading>Section 295.22</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.22
+295.21
+295.23
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.22
+Version List
+295.22
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-23">
+          <num>295.23</num>
+          <heading>Section 295.23</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.23
+295.22
+295.24
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.23
+Version List
+295.23
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-24">
+          <num>295.24</num>
+          <heading>Section 295.24</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.24
+295.23
+295.25
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.24
+Version List
+295.24
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-25">
+          <num>295.25</num>
+          <heading>Section 295.25</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.25
+295.24
+295.26
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.25
+Version List
+295.25
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-26">
+          <num>295.26</num>
+          <heading>Section 295.26</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.26
+295.25
+295.27
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.26
+Version List
+295.26
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-27">
+          <num>295.27</num>
+          <heading>Section 295.27</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.27
+295.26
+295.29
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.27
+Version List
+295.27
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-29">
+          <num>295.29</num>
+          <heading>Section 295.29</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.29
+295.27
+295.30
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.29
+Version List
+295.29
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-30">
+          <num>295.30</num>
+          <heading>Section 295.30</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.30
+295.29
+295.31
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.30
+Version List
+295.30
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-31">
+          <num>295.31</num>
+          <heading>Section 295.31</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.31
+295.30
+295.32
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.31
+Version List
+295.31
+[Repealed,
+1989 c 277 art 1 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-32">
+          <num>295.32</num>
+          <heading>Section 295.32</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.32
+295.31
+295.33
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.32
+Version List
+295.32
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-33">
+          <num>295.33</num>
+          <heading>Section 295.33</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.33
+295.32
+295.34
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.33
+Version List
+295.33
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-34">
+          <num>295.34</num>
+          <heading>Section 295.34</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.34
+295.33
+295.35
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.34
+Version List
+295.34
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-35">
+          <num>295.35</num>
+          <heading>Section 295.35</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.35
+295.34
+295.36
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.35
+Version List
+295.35
+[Repealed, 1969 c 1147 s 22]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-36">
+          <num>295.36</num>
+          <heading>Section 295.36</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.36
+295.35
+295.361
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.36
+Version List
+295.36
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-37">
+          <num>295.37</num>
+          <heading>Section 295.37</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.37
+295.367
+295.38
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.37
+Version List
+Recent History
+1996 295.37 Repealed
+1996 c 471 art 9 s 16
+295.37
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-38">
+          <num>295.38</num>
+          <heading>Section 295.38</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.38
+295.37
+295.39
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.38
+Version List
+295.38
+[Repealed,
+1973 c 650 art 27 s 1
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-39">
+          <num>295.39</num>
+          <heading>Section 295.39</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.39
+295.38
+295.40
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.39
+Version List
+Recent History
+1996 295.39 Repealed
+1996 c 471 art 9 s 16
+295.39
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-40">
+          <num>295.40</num>
+          <heading>Section 295.40</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.40
+295.39
+295.41
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.40
+Version List
+Recent History
+1996 295.40 Repealed
+1996 c 471 art 9 s 16
+295.40
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-41">
+          <num>295.41</num>
+          <heading>Section 295.41</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.41
+295.40
+295.42
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.41
+Version List
+Recent History
+1996 295.41 Repealed
+1996 c 471 art 9 s 16
+295.41
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-42">
+          <num>295.42</num>
+          <heading>Section 295.42</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.42
+295.41
+295.43
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.42
+Version List
+Recent History
+1996 295.42 Repealed
+1996 c 471 art 9 s 16
+295.42
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-43">
+          <num>295.43</num>
+          <heading>Section 295.43</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.43
+295.42
+295.44
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.43
+Version List
+Recent History
+1996 295.43 Repealed
+1996 c 471 art 9 s 16
+295.43
+[Repealed,
+1996 c 471 art 9 s 16
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-44">
+          <num>295.44</num>
+          <heading>Section 295.44</heading>
+          <subsection eId="295-44__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1997 c 191 art 1 s 10
+295</heading>
+            <content>
+              <p>44
+[Repealed,
+2002 c 377 art 10 s 32
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-50">
+          <num>295.50</num>
+          <heading>DEFINITIONS</heading>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2025 c 3 art 8 s 32
+2025 Subd</heading>
+            <content>
+              <p>9b
+Amended
+2025 c 38 art 8 s 86
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2023 c 64 art 19 s 2
+2023 Subd</heading>
+            <content>
+              <p>10b
+Repealed
+2023 c 25 s 190
+2021</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>b
+Amended
+2021 c 30 art 17 s 111
+2020 Subd</heading>
+            <content>
+              <p>10b
+Revisor Instruction
+2020 c 2 art 6 s 123
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>b
+New
+2019 c 6 art 16 s 1
+2019 Subd</heading>
+            <content>
+              <p>3
+Amended
+2019 c 6 art 16 s 2
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2019 c 6 art 16 s 3
+2019 Subd</heading>
+            <content>
+              <p>7a
+New
+2019 c 6 art 16 s 4
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>b
+Amended
+2019 c 6 art 16 s 5
+2019 Subd</heading>
+            <content>
+              <p>9b
+Amended
+2019 c 54 art 2 s 43
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>c
+New
+2019 c 6 art 16 s 6
+2019 Subd</heading>
+            <content>
+              <p>13a
+New
+2019 c 6 art 16 s 7
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_14">
+            <num>Subd. 14.</num>
+            <heading>Amended
+2019 c 6 art 16 s 8
+2019 Subd</heading>
+            <content>
+              <p>15
+Amended
+2019 c 6 art 16 s 9
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_16">
+            <num>Subd. 16.</num>
+            <heading>New
+2019 c 6 art 16 s 10
+2013 Subd</heading>
+            <content>
+              <p>10b
+Amended
+2013 c 59 art 2 s 15
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>1a
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>2a
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>4
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>6a
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>9b
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>c
+Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>10a
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>b
+Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>12b
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>14
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2008 Subd</heading>
+            <content>
+              <p>4
+Amended
+2008 c 366 art 14 s 3
+2006</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2006 c 259 art 7 s 3
+2006 Subd</heading>
+            <content>
+              <p>10b
+Amended
+2006 c 212 art 3 s 27
+2005</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+New
+2005 c 3 art 6 s 5
+2005 Subd</heading>
+            <content>
+              <p>3
+Amended
+2005 c 3 art 6 s 6
+2004</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>b
+Amended
+2004 c 288 art 6 s 25
+2003 Subd</heading>
+            <content>
+              <p>9b
+Amended
+2003 c 127 art 7 s 2
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2001 c 5 art 14 s 2
+2001 Subd</heading>
+            <content>
+              <p>4
+Amended
+2001 c 5 art 14 s 3
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2001 c 5 art 14 s 4
+2000 Subd</heading>
+            <content>
+              <p>9b
+Amended
+2000 c 490 art 9 s 2
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1999 c 243 art 8 s 1
+1997 Subd</heading>
+            <content>
+              <p>3
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1997 c 225 art 3 s 4
+1997 Subd</heading>
+            <content>
+              <p>3
+Amended
+1997 c 84 art 4 s 1
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1997 c 31 art 4 s 1
+1997 Subd</heading>
+            <content>
+              <p>4
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1997 c 225 art 3 s 5
+1997 Subd</heading>
+            <content>
+              <p>4
+Amended
+1997 c 31 art 4 s 2
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+1997 c 225 art 3 s 6
+1997 Subd</heading>
+            <content>
+              <p>7
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Amended
+1997 c 225 art 3 s 7
+1997 Subd</heading>
+            <content>
+              <p>7
+Amended
+1997 c 31 art 4 s 3
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_7">
+            <num>Subd. 7.</num>
+            <heading>a
+Other
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>7a
+New
+1997 c 31 art 4 s 4
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Other
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>13
+Amended
+1997 c 225 art 3 s 8
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+1997 c 31 art 4 s 5
+1997 Subd</heading>
+            <content>
+              <p>14
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_14">
+            <num>Subd. 14.</num>
+            <heading>Amended
+1997 c 225 art 3 s 9
+1997 Subd</heading>
+            <content>
+              <p>14
+Amended
+1997 c 84 art 4 s 2
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1996 c 471 art 6 s 1
+1996 Subd</heading>
+            <content>
+              <p>4 Amended
+1996 c 471 art 6 s 2
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1996 c 305 art 1 s 65
+1996 Subd</heading>
+            <content>
+              <p>6 Amended
+1996 c 471 art 6 s 3
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Repealed
+1996 c 471 art 6 s 13
+1996 Subd</heading>
+            <content>
+              <p>9 Repealed
+1996 c 471 art 6 s 13
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>a Repealed
+1996 c 471 art 6 s 13
+1996 Subd</heading>
+            <content>
+              <p>11 Repealed
+1996 c 471 art 6 s 13
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <heading>Repealed
+1996 c 471 art 6 s 13
+1996 Subd</heading>
+            <content>
+              <p>12a Repealed
+1996 c 471 art 6 s 13
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1995 c 264 art 18 s 1
+1995 Subd</heading>
+            <content>
+              <p>3 Amended
+1995 c 234 art 9 s 4
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1995 c 264 art 18 s 2
+1995 Subd</heading>
+            <content>
+              <p>4 Amended
+1995 c 234 art 9 s 5
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>a Amended
+1995 c 234 art 9 s 6
+1994 Subd</heading>
+            <content>
+              <p>2a New
+1994 c 625 art 13 s 6
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1994 c 625 art 13 s 7
+1994 Subd</heading>
+            <content>
+              <p>4 Amended
+1994 c 625 art 8 s 64
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_6">
+            <num>Subd. 6.</num>
+            <heading>a New
+1994 c 625 art 13 s 8
+1994 Subd</heading>
+            <content>
+              <p>12b Amended
+1994 c 625 art 8 s 65
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_15">
+            <num>Subd. 15.</num>
+            <heading>New
+1994 c 625 art 13 s 9
+295</heading>
+            <content>
+              <p>50 DEFINITIONS.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Definitions</heading>
+            <content>
+              <p>For purposes of sections
+295.50
+to
+295.59
+, the following terms have the meanings given.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a</heading>
+            <content>
+              <p>Blood components.
+&quot;Blood components&quot; means the parts of the blood that are separated from blood by physical or mechanical means and are intended for transfusion. Blood components do not include blood derivatives.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Commissioner</heading>
+            <content>
+              <p>&quot;Commissioner&quot; is the commissioner of revenue.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a</heading>
+            <content>
+              <p>Delivered outside of Minnesota.
+&quot;Delivered outside of Minnesota&quot; means property which the seller delivers to a common carrier for delivery outside Minnesota, places in the United States mail or parcel post directed to the purchaser outside Minnesota, or delivers to the purchaser outside Minnesota by means of the seller's own delivery vehicles, and which is not later returned to a point within Minnesota, except in the course of interstate commerce.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>b</heading>
+            <content>
+              <p>Emergency medical reasons.
+&quot;Emergency medical reasons&quot; means a public health emergency declaration pursuant to United States Code, title 42, section 247d; a national security or peacetime emergency declared by the governor pursuant to section
+12.31
+; or a situation involving an action by the commissioner of health pursuant to section
+144.4197
+,
+144.4198
+, or
+151.37, subdivisions 2
+, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Gross revenues</heading>
+            <paragraph eId="295-50__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Gross revenues&quot; are total amounts received in money or otherwise by:</p>
+              </content>
+              <subparagraph eId="295-50__subd_3__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>a hospital for patient services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_3__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>a surgical center for patient services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_3__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>a health care provider, other than a staff model health plan company, for patient services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_3__para_a__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>a wholesale drug distributor for sale or distribution of legend drugs that are delivered in Minnesota by the wholesale drug distributor, by common carrier, or by mail, unless the legend drugs are delivered to another wholesale drug distributor who sells legend drugs exclusively at wholesale; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_3__para_a__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>a staff model health plan company as gross premiums for enrollees, co-payments, deductibles, coinsurance, and fees for patient services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-50__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of paragraph (a), clause</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Health care provider</heading>
+            <paragraph eId="295-50__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Health care provider&quot; means:</p>
+              </content>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>a person whose health care occupation is regulated or required to be regulated by the state of Minnesota furnishing any or all of the following goods or services directly to a patient or consumer: medical, surgical, optical, visual, dental, hearing, nursing services, drugs, laboratory, diagnostic or therapeutic services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>a person who provides goods and services not listed in clause</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>that qualify for reimbursement under the medical assistance program provided under chapter 256B;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>a staff model health plan company;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>an ambulance service required to be licensed;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>a person who sells or repairs hearing aids and related equipment or prescription eyewear; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>a person providing patient services, who does not otherwise meet the definition of health care provider and is not specifically excluded in clause</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>to</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_4__para_a__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>to perform, supervise, otherwise oversee, or consult with regarding patient services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-50__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Health care provider does not include:</p>
+              </content>
+              <subparagraph eId="295-50__subd_4__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>hospitals; medical supplies distributors, except as specified under paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>; boarding care homes, as defined in Minnesota Rules, part
+4655.0100
+; and adult day care centers as defined in Minnesota Rules, part
+9555.9600
+;
+(2) home health agencies as defined in Minnesota Rules, part
+9505.0175
+, subpart 15; a person providing personal care services and supervision of personal care services as defined in Minnesota Rules, part
+9505.0335
+; a person providing home care nursing services as defined in Minnesota Rules, part
+9505.0360
+; and home care providers required to be licensed under chapter 144A for home care services provided under chapter 144A;
+(3) a person who employs health care providers solely for the purpose of providing patient services to its employees;
+(4) an educational institution that employs health care providers solely for the purpose of providing patient services to its students if the institution does not receive fee for service payments or payments for extended coverage; and
+(5) a person who receives all payments for patient services from health care providers, surgical centers, or hospitals for goods and services that are taxable to the paying health care providers, surgical centers, or hospitals, as provided under section
+295.53,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>[Repealed,
+1993 c 345 art 13 s 24
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Home health care services</heading>
+            <content>
+              <p>&quot;Home health care services&quot; are services:
+(1) defined under the state medical assistance program as home health agency services provided by a home health agency, personal care services and supervision of personal care services, home care nursing services, and waivered services or services by home care providers required to be licensed under chapter 144A; and
+(2) provided at a recipient's residence, if the recipient does not live in a hospital, nursing facility, as defined in section
+62A.46,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, or intermediate care facility for persons with developmental disabilities as defined in section
+256B.055,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_6">
+            <num>Subd. 6.</num>
+            <heading>a</heading>
+            <content>
+              <p>Hospice care services.
+&quot;Hospice care services&quot; are services:
+(1) as defined in Minnesota Rules, part
+9505.0297
+; and
+(2) provided at a recipient's residence, if the recipient does not live in a hospital, nursing facility as defined in section
+62A.46,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, or intermediate care facility for persons with developmental disabilities as defined in section
+256B.055,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Hospital</heading>
+            <content>
+              <p>&quot;Hospital&quot; means a hospital licensed under chapter 144, or a hospital licensed by any other jurisdiction.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_7">
+            <num>Subd. 7.</num>
+            <heading>a</heading>
+            <content>
+              <p>Manufacturer.
+&quot;Manufacturer&quot; has the meaning provided in section
+151.01
+,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_14">
+            <num>Subd. 14.</num>
+            <heading>a</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>a</heading>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>b</heading>
+            <content>
+              <p>Patient services.</p>
+            </content>
+            <paragraph eId="295-50__subd_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Patient services&quot; means inpatient and outpatient services and other goods and services provided by hospitals, surgical centers, or health care providers. They include the following health care goods and services provided to a patient or consumer:</p>
+              </content>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>bed and board;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>nursing services and other related services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>use of hospitals, surgical centers, or health care provider facilities;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>medical social services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>drugs, biologicals, supplies, appliances, and equipment;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>other diagnostic or therapeutic items or services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_7">
+                <num>(7)</num>
+                <content>
+                  <p>medical or surgical services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_8">
+                <num>(8)</num>
+                <content>
+                  <p>items and services furnished to ambulatory patients not requiring emergency care; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_a__subpara_9">
+                <num>(9)</num>
+                <content>
+                  <p>emergency services.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-50__subd_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Patient services&quot; does not include:</p>
+              </content>
+              <subparagraph eId="295-50__subd_9__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>services provided to nursing homes licensed under chapter 144A;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>examinations for purposes of utilization reviews, insurance claims or eligibility, litigation, and employment, including reviews of medical records for those purposes;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_b__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>services provided to and by community residential mental health facilities licensed under section
+245I.23
+or Minnesota Rules, parts
+9520.0500
+to
+9520.0670
+, and to and by residential treatment programs for children with a serious mental illness licensed or certified under chapter 245A;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-50__subd_9__para_b__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>services provided under the following programs: day treatment services as defined in section
+245.462,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-50__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>; assertive community treatment as described in section
+256B.0622
+; adult rehabilitative mental health services as described in section
+256B.0623
+; crisis response services as described in section
+256B.0624
+; and children's therapeutic services and supports as described in section
+256B.0943
+;
+(5) services provided to and by community mental health centers as defined in section
+245.62,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>;
+(6) services provided to and by assisted living programs and congregate housing programs;
+(7) hospice care services;
+(8) home and community-based waivered services under chapter 256S and sections
+256B.49
+and
+256B.501
+;
+(9) targeted case management services under sections
+256B.0621
+;
+256B.0625, subdivisions 20, 20a, 33, and 44
+; and
+256B.094
+; and
+(10) services provided to the following: supervised living facilities for persons with developmental disabilities licensed under Minnesota Rules, parts
+4665.0100
+to
+4665.9900
+; housing with services establishments required to be registered under chapter 144D; board and lodging establishments providing only custodial services that are licensed under chapter 157 and registered under section
+157.17
+to provide supportive services or health supervision services; adult foster homes as defined in Minnesota Rules, part
+9555.5105
+; day training and habilitation services for adults with developmental disabilities as defined in section
+252.41,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>; boarding care homes as defined in Minnesota Rules, part
+4655.0100
+; adult day care services as defined in section
+245A.02,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a
+; and home health agencies as defined in Minnesota Rules, part
+9505</heading>
+            <content>
+              <p>0175
+, subpart 15, or licensed under chapter 144A.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_9">
+            <num>Subd. 9.</num>
+            <heading>c</heading>
+            <content>
+              <p>Person.
+&quot;Person&quot; means an individual, partnership, limited liability company, corporation, association, governmental unit or agency, or public or private organization of any kind.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <content>
+              <p>[Repealed,
+1993 c 345 art 13 s 24
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>a</heading>
+            <content>
+              <p>Pharmacy.
+&quot;Pharmacy&quot; means a pharmacy required to be licensed under chapter 151, or a pharmacy required to be licensed by any other jurisdiction.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>b</heading>
+            <content>
+              <p>MS 2022 [Repealed,
+2023 c 25 s 190
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_10">
+            <num>Subd. 10.</num>
+            <heading>c</heading>
+            <content>
+              <p>Pharmacy benefits manager.
+&quot;Pharmacy benefits manager&quot; means an entity that performs pharmacy benefits management.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_11">
+            <num>Subd. 11.</num>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <heading>a</heading>
+            <content>
+              <p>[Repealed,
+1996 c 471 art 6 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_12">
+            <num>Subd. 12.</num>
+            <heading>b</heading>
+            <content>
+              <p>Staff model health plan company.
+&quot;Staff model health plan company&quot; means a health plan company as defined in section
+62Q.01,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, which employs one or more types of health care provider to deliver health care services to the health plan company's enrollees.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Surgical center</heading>
+            <content>
+              <p>&quot;Surgical center&quot; is an outpatient surgical center as defined in Minnesota Rules, chapter 4675, or a similar facility located in any other jurisdiction.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_13">
+            <num>Subd. 13.</num>
+            <heading>a</heading>
+            <content>
+              <p>Third-party purchaser of health care services.
+&quot;Third-party purchaser of health care services&quot; includes but is not limited to a health carrier or community integrated service network that pays for health care services on behalf of patients or that reimburses, indemnifies, compensates, or otherwise insures patients for health care services.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_14">
+            <num>Subd. 14.</num>
+            <heading>Wholesale drug distributor</heading>
+            <content>
+              <p>&quot;Wholesale drug distributor&quot; means any person engaged in wholesale drug distribution including but not limited to manufacturers; repackagers; own-label distributors; jobbers; brokers; warehouses, including manufacturers' and distributors' warehouses, chain drug warehouses, and wholesale drug warehouses; independent wholesale drug traders; and pharmacies that conduct wholesale drug distribution. A wholesale drug distributor does not include a common carrier or individual hired primarily to transport legend drugs.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Legend drug</heading>
+            <content>
+              <p>&quot;Legend drug&quot; means a drug that is required by federal law to bear one of the following statements: &quot;Caution: Federal law prohibits dispensing without prescription&quot; or &quot;Rx only.&quot; Legend drugs do not include nutritional products as defined in Minnesota Rules, part
+9505.0325
+, subpart 1, and blood and blood components.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-50__subd_16">
+            <num>Subd. 16.</num>
+            <heading>Wholesale drug distribution</heading>
+            <content>
+              <p>&quot;Wholesale drug distribution&quot; means the sale or distribution of legend drugs to a person other than a consumer or patient, but does not include:
+(1) a sale between a division, subsidiary, parent, affiliated, or related company under the common ownership and control of a corporate entity;
+(2) the purchase or other acquisition, by a hospital or other health care entity that is a member of a group purchasing organization, of a legend drug for its own use from the organization or from other hospitals or health care entities that are members of such organizations;
+(3) the sale, purchase, or trade of a legend drug by a charitable organization described in section 501</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-51">
+          <num>295.51</num>
+          <heading>MINIMUM CONTACTS REQUIRED FOR JURISDICTION TO TAX GROSS REVENUE</heading>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+Amended
+2019 c 6 art 9 s 1
+2011 Subd</heading>
+            <content>
+              <p>1
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+Repealed
+2011 c 9 art 6 s 97
+1997 Subd</heading>
+            <content>
+              <p>1
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1997 c 225 art 3 s 10
+1997 Subd</heading>
+            <content>
+              <p>1
+Amended
+1997 c 31 art 4 s 6
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1996 c 471 art 6 s 4
+1996 Subd</heading>
+            <content>
+              <p>1a New
+1996 c 471 art 6 s 5
+295.51 MINIMUM CONTACTS REQUIRED FOR JURISDICTION TO TAX GROSS REVENUE.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Business transactions in Minnesota</heading>
+            <content>
+              <p>A hospital, surgical center, or health care provider is subject to tax under sections
+295.50
+to
+295.59
+if it is &quot;transacting business in Minnesota.&quot; A hospital, surgical center, or health care provider is transacting business in Minnesota if it maintains contacts with or presence in the state of Minnesota sufficient to permit taxation of gross revenues received for patient services under the United States Constitution.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-51__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a</heading>
+            <content>
+              <p>Nexus in Minnesota.</p>
+            </content>
+            <paragraph eId="295-51__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>To the extent allowed by the United States Constitution and the laws of the United States, a person who is a wholesale drug distributor, a person subject to tax under section
+295.52,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-51__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, or a person who sells or repairs hearing aids and related equipment or prescription eyewear is subject to the taxes imposed by this chapter if the person:
+(1) has or maintains within this state, directly or by a subsidiary or an affiliate, an office, place of distribution, sales, storage, or sample room or place, warehouse, or other place of business, including the employment of a resident of this state who works from a home office in this state;
+(2) has a representative, including but not limited to an employee, affiliate, agent, salesperson, canvasser, solicitor, independent contractor, or other third party operating in this state under the person's authority or the authority of the person's subsidiary, for any purpose, including the repairing, selling, delivering, installing, facilitating sales, processing sales, or soliciting of orders for the person's goods or services, or the leasing of tangible personal property located in this state, whether the place of business or the agent, representative, affiliate, salesperson, canvasser, or solicitor is located in the state permanently or temporarily, or whether or not the person, subsidiary, or affiliate is authorized to do business in this state;
+(3) owns or leases real property that is located in this state; or
+(4) owns or leases tangible personal property that is present in this state, including but not limited to mobile property.</p>
+            </content>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>To the extent allowed by the United States Constitution and the laws of the United States, a person who is a wholesale drug distributor, or a person who is subject to tax under section
+295.52,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-51__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, is subject to the taxes imposed by this chapter if the person:
+(1) conducts a trade or business not described in paragraph</p>
+            </content>
+            <paragraph eId="295-51__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>and sells, delivers, or distributes legend drugs from outside this state to a destination within this state by common carrier or otherwise; and</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>meets one of the following thresholds:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_i">
+              <num>(i)</num>
+              <content>
+                <p>makes 200 or more sales, deliveries, or distributions described in clause</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_i__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>during any taxable year;
+(ii) the gross revenues of a wholesale drug distributor that sells, delivers, or distributes legend drugs as described in clause</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-51__subd_4__para_i__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>totals more than $100,000 during any taxable year; or
+(iii) the price paid by a person who is subject to tax under section
+295.52,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-51__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, totals more than $100,000 for legend drugs that the person sells, delivers, or distributes as described in clause (1) during any taxable year.</p>
+            </content>
+            <paragraph eId="295-51__subd_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>To the extent allowed by the United States Constitution and the laws of the United States, a person who sells or repairs hearing aids and related equipment or prescription eyewear is subject to the taxes imposed by this chapter if the person:</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>conducts a trade or business not described in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>and:</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_i">
+              <num>(i)</num>
+              <content>
+                <p>sells, delivers, or distributes hearing aids and related equipment or prescription eyewear from outside of this state to a destination within this state by common carrier or otherwise; or
+(ii) repairs hearing aids and related equipment or prescription eyewear outside of this state and delivers or distributes the hearing aids and related equipment or prescription eyewear to a destination within this state by common carrier or otherwise; and</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_i__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>meets one of the following thresholds:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_i">
+              <num>(i)</num>
+              <content>
+                <p>makes 200 or more sales, deliveries, distributions, or repairs described in clause</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_i__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>during any taxable year; or
+(ii) the gross revenues of the person who sells, delivers, distributes, or repairs hearing aids and related equipment or prescription eyewear described in clause</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-51__subd_4__para_i__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>totals more than $100,000 during any taxable year.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Once a taxpayer has established nexus with Minnesota under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c), the taxpayer must continue to file an annual return and remit taxes for subsequent years. A taxpayer who has established nexus under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>is no longer required to file an annual return and remit taxes if the taxpayer:</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>ceases to engage in the activities or no longer meets any of the applicable thresholds in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_c">
+              <num>(c)</num>
+              <content>
+                <p>for an entire taxable year; and</p>
+              </content>
+              <subparagraph eId="295-51__subd_4__para_c__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>notifies the commissioner by March 15 of the following calendar year, in a manner prescribed by the commissioner, that the taxpayer no longer engages in any of the activities or no longer meets any of the applicable thresholds in paragraph</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_e">
+              <num>(e)</num>
+              <content>
+                <p>If, after notifying the commissioner pursuant to paragraph (d), the taxpayer subsequently engages in any of the activities and meets any of the applicable thresholds in paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>or (c), the taxpayer shall again comply with the applicable requirements of paragraphs</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-51__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>to (d).
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-51__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1993 c 345 art 13 s 24
+]
+History:
+1992 c 549 art 9 s 6
+;
+1993 c 345 art 13 s 11
+;
+1Sp1993 c 6 s 24
+;
+1996 c 471 art 6 s 4
+,5;
+1997 c 31 art 4 s 6
+;
+1997 c 225 art 3 s 10
+,23;
+1997 c 251 s 28
+;
+1Sp2011 c 9 art 6 s 97
+;
+1Sp2019 c 6 art 9 s 1
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-52">
+          <num>295.52</num>
+          <heading>TAXES IMPOSED</heading>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2019 c 6 art 9 s 2
+2019 Subd</heading>
+            <content>
+              <p>1a
+Amended
+2019 c 6 art 9 s 3
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2019 c 6 art 9 s 4
+2019 Subd</heading>
+            <content>
+              <p>3
+Amended
+2019 c 6 art 9 s 5
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2019 c 6 art 9 s 6
+2019 Subd</heading>
+            <content>
+              <p>8
+Amended
+2019 c 6 art 9 s 7
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Repealed
+2014 c 308 art 9 s 94
+2011 Subd</heading>
+            <content>
+              <p>1
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>2
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>4
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>5
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>7
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_8">
+            <num>Subd. 8.</num>
+            <heading>New
+2011 c 9 art 6 s 83
+2008 Subd</heading>
+            <content>
+              <p>4
+Amended
+2008 c 366 art 14 s 4
+2008</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2008 c 154 art 14 s 5
+2008 Subd</heading>
+            <content>
+              <p>4a
+Amended
+2008 c 154 art 14 s 6
+2005</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2005 c 3 art 6 s 7
+2001 Subd</heading>
+            <content>
+              <p>4
+Amended
+2001 c 5 art 14 s 5
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Amended
+2001 c 5 art 14 s 6
+1999 Subd</heading>
+            <content>
+              <p>5
+Amended
+1999 c 8 s 5
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Amended
+1999 c 243 art 8 s 2
+1998 Subd</heading>
+            <content>
+              <p>4
+Amended
+1998 c 389 art 16 s 13
+1998</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+Amended
+1998 c 389 art 16 s 14
+1997 Subd</heading>
+            <content>
+              <p>1b
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>b
+Repealed
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>1b
+Amended
+1997 c 31 art 4 s 7
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Other
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>4
+Amended
+1997 c 225 art 3 s 11
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1997 c 84 art 4 s 3
+1997 Subd</heading>
+            <content>
+              <p>6
+New
+1997 c 225 art 3 s 12
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Amended
+1997 c 251 s 27
+1997 Subd</heading>
+            <content>
+              <p>7
+New
+1997 c 225 art 3 s 13
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a New
+1996 c 471 art 6 s 6
+1994 Subd</heading>
+            <content>
+              <p>5 Amended
+1994 c 625 art 13 s 10
+295.52 TAXES IMPOSED.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Hospital tax</heading>
+            <content>
+              <p>A tax is imposed on each hospital equal to 1.8 percent of its gross revenues.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a</heading>
+            <content>
+              <p>Surgical center tax.
+A tax is imposed on each surgical center equal to 1.8 percent of its gross revenues.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_1">
+            <num>Subd. 1.</num>
+            <heading>b</heading>
+            <content>
+              <p>[Repealed,
+1997 c 225 art 3 s 23
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Provider tax</heading>
+            <content>
+              <p>A tax is imposed on each health care provider equal to 1.8 percent of its gross revenues.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Wholesale drug distributor tax</heading>
+            <content>
+              <p>A tax is imposed on each wholesale drug distributor equal to 1.8 percent of its gross revenues.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Use tax; legend drugs</heading>
+            <paragraph eId="295-52__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A person that receives legend drugs for resale or use in Minnesota, other than from a wholesale drug distributor that is subject to tax under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-52__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, is subject to a tax equal to the price paid for the legend drugs multiplied by 1.8 percent. Liability for the tax is incurred when legend drugs are received or delivered in Minnesota by the person.</p>
+            </content>
+            <paragraph eId="295-52__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A tax imposed under this subdivision does not apply to purchases by an individual for personal consumption.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a</heading>
+            <content>
+              <p>Tax collection.
+A wholesale drug distributor with nexus in Minnesota, who is not subject to tax under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, on all or a particular transaction is required to collect the tax imposed under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, from the purchaser of the drugs and give the purchaser a receipt for the tax paid. The tax collected shall be remitted to the commissioner in the manner prescribed by section
+295.55,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Volunteer ambulance services</heading>
+            <content>
+              <p>Volunteer ambulance services are not subject to the tax under this section. For purposes of this requirement, &quot;volunteer ambulance service&quot; means an ambulance service in which all of the individuals whose primary responsibility is direct patient care meet the definition of volunteer under section
+144E.001,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_15">
+            <num>Subd. 15.</num>
+            <content>
+              <p>. The ambulance service may employ administrative and support staff, and remain eligible for this exemption, if the primary responsibility of these staff is not direct patient care.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Hearing aids and prescription eyewear</heading>
+            <content>
+              <p>The tax liability of a person who meets the definition of a health care provider solely because the person sells or repairs hearing aids and related equipment or prescription eyewear is limited to the gross revenues received from the sale or repair of these items.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_7">
+            <num>Subd. 7.</num>
+            <content>
+              <p>[Repealed,
+2014 c 308 art 9 s 94
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-52__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Contingent reduction in tax rate</heading>
+            <paragraph eId="295-52__subd_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>By December 1 of each year, beginning in 2011, the commissioner of management and budget shall determine the projected balance in the health care access fund for the biennium.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-52__subd_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the commissioner of management and budget determines that the projected balance in the health care access fund for the biennium reflects a ratio of revenues to expenditures and transfers greater than 125 percent, and if the actual cash balance in the fund is adequate, as determined by the commissioner of management and budget, the commissioner, in consultation with the commissioner of revenue, shall reduce the tax rates levied under subdivisions 1, 1a, 2, 3, and 4, for the subsequent calendar year sufficient to reduce the structural balance in the fund. The rate may be reduced to the extent that the projected revenues for the biennium do not exceed 125 percent of expenditures and transfers. The new rate shall be rounded to the nearest one-tenth of one percent. The rate reduction under this paragraph expires at the end of each calendar year and is subject to an annual redetermination by the commissioner of management and budget.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-52__subd_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>For purposes of the analysis defined in paragraph (b), the commissioner of management and budget shall include projected revenues.
+History:
+1992 c 549 art 9 s 7
+;
+1993 c 345 art 13 s 12
+,13;
+1Sp1993 c 6 s 25
+;
+1994 c 625 art 13 s 10
+;
+1996 c 471 art 6 s 6
+;
+1997 c 31 art 4 s 7
+;
+1997 c 84 art 4 s 3
+;
+1997 c 199 s 14
+;
+1997 c 225 art 3 s 11
+-13,23;
+1997 c 251 s 27
+,28;
+1998 c 389 art 16 s 13
+,14;
+1999 c 8 s 5
+;
+1999 c 243 art 8 s 2
+;
+1Sp2001 c 5 art 14 s 5
+,6;
+1Sp2005 c 3 art 6 s 7
+;
+2008 c 154 art 14 s 5
+,6;
+2008 c 366 art 14 s 4
+;
+1Sp2011 c 9 art 6 s 83,97
+;
+1Sp2019 c 6 art 9 s 2
+-7
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_295-53">
+          <num>295.53</num>
+          <heading>EXCLUSIONS AND EXEMPTIONS; SPECIAL RULES</heading>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+Amended
+2025 c 13 art 8 s 16
+2024 Subd</heading>
+            <content>
+              <p>1
+Revisor Instruction
+2024 c 79 art 10 s 3
+2021</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Revisor Instruction
+2021 c 30 art 13 s 83
+2021 Subd</heading>
+            <content>
+              <p>1
+Amended
+2021 c 30 art 1 s 22
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2019 c 6 art 16 s 11
+2017 Subd</heading>
+            <content>
+              <p>1
+Amended
+2017 c 1 art 11 s 3
+2017</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2017 c 40 art 1 s 102
+2011 Subd</heading>
+            <content>
+              <p>1
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Repealed
+2011 c 9 art 6 s 97
+2011 Subd</heading>
+            <content>
+              <p>3
+Repealed
+2011 c 9 art 6 s 97
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+Repealed
+2011 c 9 art 6 s 97
+2008 Subd</heading>
+            <content>
+              <p>4a
+Amended
+2008 c 366 art 11 s 17
+2006</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2006 c 259 art 7 s 4
+2005 Subd</heading>
+            <content>
+              <p>1
+Amended
+2005 c 3 art 6 s 8
+2004</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2004 c 288 art 6 s 26
+2003 Subd</heading>
+            <content>
+              <p>1
+Amended
+2003 c 14 art 12 s 87
+2003</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2003 c 127 art 7 s 3
+2002 Subd</heading>
+            <content>
+              <p>1
+Amended
+2002 c 377 art 9 s 7
+2000</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2000 c 490 art 9 s 3
+1999 Subd</heading>
+            <content>
+              <p>1
+Amended
+1999 c 243 art 8 s 3
+1998</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+Amended
+1998 c 300 art 3 s 8
+1997 Subd</heading>
+            <content>
+              <p>1
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1997 c 225 art 3 s 14
+1997 Subd</heading>
+            <content>
+              <p>1
+Amended
+1997 c 31 art 4 s 8
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Other
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>3
+Amended
+1997 c 225 art 3 s 15
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1997 c 31 art 4 s 9
+1997 Subd</heading>
+            <content>
+              <p>4
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1997 c 225 art 3 s 16
+1997 Subd</heading>
+            <content>
+              <p>4
+Amended
+1997 c 84 art 4 s 4
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a
+New
+1997 c 225 art 3 s 17
+1997 Subd</heading>
+            <content>
+              <p>5
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Repealed
+1997 c 225 art 3 s 23
+1997 Subd</heading>
+            <content>
+              <p>5
+Amended
+1997 c 31 art 4 s 10
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1996 c 471 art 6 s 7
+1996 Subd</heading>
+            <content>
+              <p>5 Amended
+1996 c 471 art 6 s 8
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1995 c 264 art 18 s 3
+1995 Subd</heading>
+            <content>
+              <p>1 Amended
+1995 c 234 art 9 s 7
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1995 c 264 art 14 s 2
+1995 Subd</heading>
+            <content>
+              <p>3 Amended
+1995 c 234 art 9 s 8
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1995 c 234 art 9 s 9
+1995 Subd</heading>
+            <content>
+              <p>5 Amended
+1995 c 264 art 18 s 4
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1994 c 625 art 13 s 11
+1994 Subd</heading>
+            <content>
+              <p>2 Amended
+1994 c 625 art 13 s 12
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Amended
+1994 c 625 art 13 s 13
+295</heading>
+            <content>
+              <p>53 EXCLUSIONS AND EXEMPTIONS; SPECIAL RULES.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Exclusions and exemptions</heading>
+            <paragraph eId="295-53__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The following payments are excluded from the gross revenues subject to the hospital, surgical center, or health care provider taxes under sections
+295.50
+to
+295.59
+:</p>
+              </content>
+              <subparagraph eId="295-53__subd_1__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>payments received by a health care provider or the wholly owned subsidiary of a health care provider for care provided outside Minnesota;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-53__subd_1__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>government payments received by the Direct Care and Treatment executive board for state-operated services;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-53__subd_1__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>payments received by a health care provider for hearing aids and related equipment or prescription eyewear delivered outside of Minnesota; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-53__subd_1__para_a__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>payments received by an educational institution from student tuition, student activity fees, health care service fees, government appropriations, donations, or grants, and for services identified in and provided under an individualized education program as defined in section
+256B.0625
+or Code of Federal Regulations, chapter 34, section 300.340</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-53__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The following payments are exempted from the gross revenues subject to hospital, surgical center, or health care provider taxes under sections
+295.50
+to
+295.59
+:</p>
+              </content>
+              <subparagraph eId="295-53__subd_1__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>payments received for services provided under the Medicare program, including payments received from the government and organizations governed by sections 1833, 1853, and 1876 of title XVIII of the federal Social Security Act, United States Code, title 42, section 1395; and enrollee deductibles, co-insurance, and co-payments, whether paid by the Medicare enrollee, by Medicare supplemental coverage as described in section
+62A.011,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, clause (10), or by Medicaid payments under title XIX of the federal Social Security Act. Payments for services not covered by Medicare are taxable;
+(2) payments received for home health care services;
+(3) payments received from hospitals or surgical centers for goods and services on which liability for tax is imposed under section
+295.52
+or the source of funds for the payment is exempt under clause (1), (6), (9), (10), or (11);
+(4) payments received from the health care providers for goods and services on which liability for tax is imposed under this chapter or the source of funds for the payment is exempt under clause (1), (6), (9), (10), or (11);
+(5) amounts paid for legend drugs to a wholesale drug distributor who is subject to tax under section
+295.52,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, reduced by reimbursement received for legend drugs otherwise exempt under this chapter;
+(6) payments received from the behavioral health fund under chapter 254B;
+(7) payments received in the nature of charitable donations that are not designated for providing patient services to a specific individual or group;
+(8) payments received for providing patient services incurred through a formal program of health care research conducted in conformity with federal regulations governing research on human subjects. Payments received from patients or from other persons paying on behalf of the patients are subject to tax;
+(9) payments received from any governmental agency for services benefiting the public, not including payments made by the government in its capacity as an employer or insurer or payments made by the government for services provided under the MinnesotaCare program or the medical assistance program governed by title XIX of the federal Social Security Act, United States Code, title 42, sections 1396 to 1396v;
+(10) payments received under the federal Employees Health Benefits Act, United States Code, title 5, section 8909</p>
+            </content>
+            <paragraph eId="295-53__subd_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Payments received by wholesale drug distributors for legend drugs sold directly to veterinarians or veterinary bulk purchasing organizations are excluded from the gross revenues subject to the wholesale drug distributor tax under sections
+295.50
+to
+295.59
+.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-53__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Deductions for staff model health plan company</heading>
+            <content>
+              <p>In addition to the exemptions allowed under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, a staff model health plan company may deduct from its gross revenues for the year:
+(1) amounts paid to hospitals, surgical centers, and health care providers that are not employees of the staff model health plan company for services on which liability for the tax is imposed under section
+295.52
+;
+(2) net amounts added to reserves, to the extent that the amounts added do not cause total reserves to exceed 200 percent of the statutory net worth requirement, the calculation of which may be determined on a consolidated basis, taking into account the amounts held in reserve by affiliated staff model health plan companies;
+(3) assessments for the comprehensive health insurance plan under section
+62E.11
+; and
+(4) amounts spent for administration as reported as total administration to the Department of Health in the statement of revenues, expenses, and net worth pursuant to section
+62D.08,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, clause</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Separate statement of tax</heading>
+            <content>
+              <p>A hospital, surgical center, health care provider, or wholesale drug distributor must not state the tax obligation under section
+295.52
+in a deceptive or misleading manner. It must not separately state tax obligations on bills provided to patients, consumers, or other payers when the amount received for the services or goods is not subject to tax.
+Pharmacies that separately state the tax obligations on bills provided to consumers or to other payers who purchase legend drugs may state the tax obligation as the wholesale price of the legend drugs multiplied by the tax percentage specified in section
+295.52
+. Pharmacies must not state the tax obligation based on the retail price.
+Whenever the commissioner determines that a person has engaged in any act or practice constituting a violation of this subdivision, the commissioner may bring an action in the name of the state in the district court of the appropriate county to enjoin the act or practice and to enforce compliance with this subdivision, or the commissioner may refer the matter to the attorney general or the county attorney of the appropriate county. Upon a proper showing, a permanent or temporary injunction, restraining order, or other appropriate relief must be granted.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Expired]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_4">
+            <num>Subd. 4.</num>
+            <heading>a</heading>
+            <content>
+              <p>Credit for research.</p>
+            </content>
+            <paragraph eId="295-53__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>In addition to the exemptions allowed under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-53__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, a hospital or health care provider may claim an annual credit against the total amount of tax, if any, the hospital or health care provider owes for that calendar year under sections
+295.50
+to
+295.57
+. The credit shall equal 0.5 percent of revenues for patient services used to fund expenditures for qualifying research conducted by an allowable research program. The amount of the credit shall not exceed the tax liability of the hospital or health care provider under sections
+295.50
+to
+295.57
+.</p>
+            </content>
+            <paragraph eId="295-53__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this subdivision, the following requirements apply:</p>
+              </content>
+              <subparagraph eId="295-53__subd_1__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>expenditures must be for program costs of qualifying research conducted by an allowable research program;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-53__subd_1__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>an allowable research program must be a formal program of medical and health care research conducted by an entity which is exempt under section 501</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-53__subd_1__para_b__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code as defined in section
+289A.02,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-53__subd_7">
+            <num>Subd. 7.</num>
+            <content>
+              <p>, or is owned and operated under authority of a governmental unit;
+(3) qualifying research must:
+(A) be approved in writing by the governing body of the hospital or health care provider which is taking the deduction under this subdivision;
+(B) have as its purpose the development of new knowledge in basic or applied science relating to the diagnosis and treatment of conditions affecting the human body;
+(C) be subject to review by individuals with expertise in the subject matter of the proposed study but who have no financial interest in the proposed study and are not involved in the conduct of the proposed study; and
+(D) be subject to review and supervision by an institutional review board operating in conformity with federal regulations if the research involves human subjects or an institutional animal care and use committee operating in conformity with federal regulations if the research involves animal subjects. Research expenses are not exempt if the study is a routine evaluation of health care methods or products used in a particular setting conducted for the purpose of making a management decision. Costs of clinical research activities paid directly for the benefit of an individual patient are excluded from this exemption. Basic research in fields including biochemistry, molecular biology, and physiology are also included if such programs are subject to a peer review process.</p>
+            </content>
+            <paragraph eId="295-53__subd_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>No credit shall be allowed under this subdivision for any revenue received by the hospital or health care provider in the form of a grant, gift, or otherwise, whether from a government or nongovernment source, on which the tax liability under section
+295.52
+is not imposed.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-53__subd_7__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The taxpayer shall apply for the credit under this section on the annual return under section
+295.55,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-53__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-53__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>[Repealed,
+1997 c 225 art 3 s 23
+]
+History:
+1992 c 549 art 9 s 8
+;
+1993 c 345 art 13 s 14
+-17;
+1Sp1993 c 6 s 26
+,27;
+1994 c 625 art 13 s 11
+-13;
+1995 c 234 art 9 s 7
+-9;
+1995 c 264 art 14 s 2
+; art 18 s 3,4;
+1996 c 471 art 6 s 7
+,8;
+1997 c 31 art 4 s 8
+-10;
+1997 c 84 art 4 s 4
+;
+1997 c 225 art 3 s 14
+-17,23;
+1997 c 251 s 28
+;
+1998 c 300 art 3 s 8
+;
+1999 c 243 art 8 s 3
+;
+2000 c 490 art 9 s 3
+;
+2002 c 377 art 9 s 7
+;
+2003 c 127 art 7 s 3
+;
+1Sp2003 c 14 art 12 s 87
+;
+2004 c 288 art 6 s 26
+;
+1Sp2005 c 3 art 6 s 8
+;
+2006 c 259 art 7 s 4
+;
+2008 c 366 art 11 s 17
+;
+2009 c 101 art 2 s 109
+;
+1Sp2011 c 9 art 6 s 97
+;
+1Sp2011 c 11 art 3 s 12
+;
+2017 c 40 art 1 s 102
+;
+1Sp2017 c 1 art 11 s 3
+;
+1Sp2019 c 6 art 16 s 11
+;
+2021 c 30 art 1 s 22
+; art 13 s 83;
+2024 c 79 art 10 s 3
+;
+1Sp2025 c 13 art 8 s 16
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-54">
+          <num>295.54</num>
+          <heading>CREDIT FOR TAXES PAID</heading>
+          <subsection eId="295-54__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2025 c 13 art 8 s 17
+2017 Subd</heading>
+            <content>
+              <p>2
+Amended
+2017 c 1 art 14 s 4
+2011 295.54
+Repealed
+2011 c 9 art 6 s 97
+2008</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2008 c 154 art 14 s 7
+1997 Subd</heading>
+            <content>
+              <p>1
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1997 c 225 art 3 s 18
+1997 Subd</heading>
+            <content>
+              <p>1
+Amended
+1997 c 31 art 4 s 11
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1997 c 225 art 3 s 19
+1996 Subd</heading>
+            <content>
+              <p>1 Amended
+1996 c 471 art 6 s 9
+1996</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1996 c 471 art 6 s 10
+1996 Subd</heading>
+            <content>
+              <p>3 New
+1996 c 471 art 6 s 11
+1994 295.54 Amended
+1994 c 625 s 14
+295.54 CREDIT FOR TAXES PAID.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Taxes paid to another state</heading>
+            <content>
+              <p>A hospital, surgical center, or health care provider that has paid taxes to another jurisdiction measured by gross revenues and is subject to tax under sections
+295.52
+to
+295.59
+on the same gross revenues is entitled to a credit for the tax legally due and paid to another jurisdiction to the extent of the lesser of (1) the tax actually paid to the other jurisdiction, or (2) the amount of tax imposed by Minnesota on the gross revenues subject to tax in the other taxing jurisdictions.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Pharmacy refund</heading>
+            <paragraph eId="295-54__subd_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A pharmacy may claim a quarterly refund equal to the amount paid by the pharmacy to a wholesale drug distributor subject to tax under section
+295.52,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-54__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, for legend drugs delivered by the pharmacy outside of Minnesota, multiplied by the tax percentage specified in section
+295.52,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-54__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="295-54__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Each qualifying pharmacy must apply for the refund on the quarterly return as prescribed by the commissioner, as required under the following schedule:</p>
+              </content>
+              <subparagraph eId="295-54__subd_3__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>for legend drugs delivered by the pharmacy outside of Minnesota between January 1 and March 31, a pharmacy may file its refund request on or after July 1 of the calendar year in which the legend drugs are delivered by the pharmacy outside of Minnesota;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-54__subd_3__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>for legend drugs delivered by the pharmacy outside of Minnesota between April 1 and June 30, a pharmacy may file its refund request on or after July 1 of the calendar year in which the legend drugs are delivered by the pharmacy outside of Minnesota;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-54__subd_3__para_b__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>for legend drugs delivered by the pharmacy outside of Minnesota between July 1 and September 30, a pharmacy may file its refund request on or after October 1 of the calendar year in which the legend drugs are delivered by the pharmacy outside of Minnesota; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-54__subd_3__para_b__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>for legend drugs delivered by the pharmacy outside of Minnesota between October 1 and December 31, a pharmacy may file its refund request on or after January 1 of the calendar year immediately following the calendar year in which the legend drugs are delivered by the pharmacy outside of Minnesota.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-54__subd_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>No refund is allowed if the claim for refund is filed more than one year after the end of the quarter in which the legend drugs were delivered by the pharmacy outside of Minnesota. Interest on refunds paid under this subdivision begins to accrue 60 days after the date a claim for refund is filed.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-54__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Wholesale drug distributor credit</heading>
+            <content>
+              <p>A wholesale drug distributor who has paid taxes to another state or province or territory of Canada measured by gross revenues or sales and is subject to tax under sections
+295.52
+to
+295.59
+on the same gross revenues or sales is entitled to a credit for the tax legally due and paid to another state or province or territory of Canada to the extent of the lesser of (1) the tax actually paid to the other state or province or territory of Canada or (2) the amount of tax imposed by Minnesota on the gross revenues or sales subject to tax in the other taxing jurisdictions.
+History:
+1992 c 549 art 9 s 9
+;
+1993 c 345 art 13 s 18
+;
+1Sp1993 c 6 s 28
+;
+1994 c 625 art 13 s 14
+;
+1996 c 471 art 6 s 9
+-11;
+1997 c 31 art 4 s 11
+;
+1997 c 225 art 3 s 18
+,19,23;
+1997 c 251 s 28
+;
+2008 c 154 art 14 s 7
+;
+1Sp2011 c 9 art 6 s 97
+;
+1Sp2017 c 1 art 14 s 4
+;
+1Sp2025 c 13 art 8 s 17
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-55">
+          <num>295.55</num>
+          <heading>PAYMENT OF TAX</heading>
+          <subsection eId="295-55__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+2017 c 1 art 16 s 31
+2013 Subd</heading>
+            <content>
+              <p>4
+Amended
+2013 c 142 art 5 s 7
+2011 295.55
+Repealed
+2011 c 9 art 6 s 97
+2010</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2010 c 389 art 6 s 2
+2010 Subd</heading>
+            <content>
+              <p>3
+Amended
+2010 c 389 art 6 s 3
+2005</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2005 c 3 art 9 s 4
+2003 Subd</heading>
+            <content>
+              <p>2
+Amended
+2003 c 14 art 7 s 68
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2001 c 5 art 17 s 14
+1999 Subd</heading>
+            <content>
+              <p>2
+Amended
+1999 c 243 art 8 s 4
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+1999 c 243 art 8 s 5
+1997 Subd</heading>
+            <content>
+              <p>2
+Other
+1997 c 225 art 3 s 23
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1997 c 225 art 3 s 20
+1997 Subd</heading>
+            <content>
+              <p>2
+Amended
+1997 c 84 art 4 s 5
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+1995 c 234 art 9 s 10
+1995 Subd</heading>
+            <content>
+              <p>7 New
+1995 c 264 art 18 s 5
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1994 c 625 art 13 s 15
+1994 Subd</heading>
+            <content>
+              <p>3 Amended
+1994 c 625 art 13 s 16
+295.55 PAYMENT OF TAX.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Scope</heading>
+            <content>
+              <p>The provisions of this section apply to the taxes imposed under sections
+295.50
+to
+295.58
+.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Estimated tax; hospitals; surgical centers</heading>
+            <paragraph eId="295-55__subd_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each hospital or surgical center must make estimated payments of the taxes for the calendar year in monthly installments to the commissioner within 15 days after the end of the month.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-55__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Estimated tax payments are not required of hospitals or surgical centers if:</p>
+              </content>
+              <subparagraph eId="295-55__subd_2__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax for the current calendar year is $500 or less; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-55__subd_2__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax for the previous calendar year is $500 or less.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-55__subd_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Underpayment of estimated installments bear interest at the rate specified in section
+270C.40
+, from the due date of the payment until paid or until the due date of the annual return whichever comes first. An underpayment of an estimated installment is the difference between the amount paid and the lesser of</p>
+              </content>
+              <subparagraph eId="295-55__subd_2__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>90 percent of one-twelfth of the tax for the calendar year or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-55__subd_2__para_c__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>one-twelfth of the total tax for the previous calendar year.
+§</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-55__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Estimated tax; other taxpayers</heading>
+            <paragraph eId="295-55__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Each taxpayer, other than a hospital or surgical center, must make estimated payments of the taxes for the calendar year in quarterly installments to the commissioner by April 15, July 15, October 15, and January 15 of the following calendar year.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-55__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Estimated tax payments are not required if:</p>
+              </content>
+              <subparagraph eId="295-55__subd_3__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax for the current calendar year is $500 or less; or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-55__subd_3__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax for the previous calendar year is $500 or less.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-55__subd_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Underpayment of estimated installments bear interest at the rate specified in section
+270C.40
+, from the due date of the payment until paid or until the due date of the annual return whichever comes first. An underpayment of an estimated installment is the difference between the amount paid and the lesser of</p>
+              </content>
+              <subparagraph eId="295-55__subd_3__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>90 percent of one-quarter of the tax for the calendar year or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-55__subd_3__para_c__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>one-quarter of the total tax for the previous calendar year.
+§</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-55__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Electronic payments</heading>
+            <content>
+              <p>A taxpayer with an aggregate tax liability of $10,000 or more in a fiscal year ending June 30 must remit all liabilities by electronic means in all subsequent calendar years.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Annual return</heading>
+            <content>
+              <p>The taxpayer must file an annual return reconciling the estimated payments by March 15 of the following calendar year.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Form of returns</heading>
+            <content>
+              <p>The commissioner shall prescribe the content, format, and manner of the estimated payment forms and annual return pursuant to section
+270C.30
+.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-55__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Extensions for filing returns</heading>
+            <content>
+              <p>If good cause exists, the commissioner may extend the time for filing MinnesotaCare tax returns for not more than 60 days.
+History:
+1992 c 549 art 9 s 10
+;
+1993 c 345 art 13 s 19
+;
+1994 c 625 art 13 s 15
+,16;
+1995 c 234 art 9 s 10
+;
+1995 c 264 art 18 s 5
+;
+1997 c 84 art 4 s 5
+;
+1997 c 225 art 3 s 20
+,23;
+1997 c 251 s 28
+;
+1999 c 243 art 8 s 4
+,5;
+1Sp2001 c 5 art 17 s 14
+;
+1Sp2003 c 14 art 7 s 68
+;
+2005 c 151 art 2 s 17
+;
+1Sp2005 c 3 art 9 s 4
+;
+2010 c 389 art 6 s 2
+,3;
+1Sp2011 c 9 art 6 s 97
+;
+2013 c 142 art 5 s 7
+;
+1Sp2017 c 1 art 16 s 31
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-56">
+          <num>295.56</num>
+          <heading>TRANSFER OF ACCOUNTS RECEIVABLE</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.56
+295.55
+295.57
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.56
+Version List
+Recent History
+2011 295.56
+Repealed
+2011 c 9 art 6 s 97
+2009 295.56
+Amended
+2009 c 88 art 9 s 5
+1995 295.56 New
+1995 c 234 art 9 s 11
+295.56 TRANSFER OF ACCOUNTS RECEIVABLE.
+When a hospital, surgical center, health care provider, or wholesale drug distributor transfers, assigns, or sells accounts receivable to another person who is subject to tax under this chapter, liability for the tax on the accounts receivable is imposed on the transferee, assignee, or buyer of the accounts receivable. No liability for these accounts receivable is imposed on the transferor, assignor, or seller of the accounts receivable.
+History:
+1995 c 234 art 9 s 11
+;
+2009 c 88 art 9 s 5
+;
+1Sp2011 c 9 art 6 s 97
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-57">
+          <num>295.57</num>
+          <heading>COLLECTION AND ENFORCEMENT; REFUNDS; APPLICATION OF OTHER CHAPTERS; ACCESS TO RECORDS; INTEREST ON OVERPAYMENTS</heading>
+          <subsection eId="295-57__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2019 c 6 art 9 s 8
+2019 Subd</heading>
+            <content>
+              <p>5
+Amended
+2019 c 6 art 16 s 12
+2011 295.57
+Repealed
+2011 c 9 art 6 s 97
+2009</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Amended
+2009 c 88 art 9 s 6
+2005 Subd</heading>
+            <content>
+              <p>1
+Amended
+2005 c 151 art 2 s 11
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_5">
+            <num>Subd. 5.</num>
+            <heading>New
+2002 c 377 art 9 s 8
+2001 Subd</heading>
+            <content>
+              <p>1
+Amended
+2001 c 5 art 14 s 7
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_4">
+            <num>Subd. 4.</num>
+            <heading>New
+1999 c 243 art 8 s 6
+1995 295</heading>
+            <content>
+              <p>57 Amended
+1995 c 264 art 18 s 6
+1995 295.57 Amended
+1995 c 234 art 9 s 12
+295.57 COLLECTION AND ENFORCEMENT; REFUNDS; APPLICATION OF OTHER CHAPTERS; ACCESS TO RECORDS; INTEREST ON OVERPAYMENTS.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Application of other chapters</heading>
+            <content>
+              <p>Unless specifically provided otherwise by sections
+295.50
+to
+295.59
+, the interest, criminal penalties, and refunds provisions in chapter 289A, the civil penalty provisions applicable to withholding and sales taxes under section
+289A.60
+, and the audit, assessment, appeal, collection, enforcement, and administrative provisions of chapters 270C and 289A, apply to taxes imposed under sections
+295.50
+to
+295.59
+.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Access to records</heading>
+            <content>
+              <p>For purposes of administering the taxes imposed by sections
+295.50
+to
+295.59
+, the commissioner may access patients' records that contain billing or other financial information without prior consent from the patients. The data collected is classified as private or nonpublic data.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Interest on overpayments</heading>
+            <content>
+              <p>Interest must be paid on an overpayment refunded or credited to the taxpayer in the manner provided in section
+289A.56,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Sampling techniques</heading>
+            <content>
+              <p>The commissioner may use statistical or other sampling techniques consistent with generally accepted auditing standards in examining returns or records and making assessments.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Exemption for amounts paid for legend drugs</heading>
+            <content>
+              <p>If a hospital, surgical center, or health care provider cannot determine the actual cost or reimbursement of legend drugs under the exemption provided in section
+295.53,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-57__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+            <paragraph eId="295-57__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>. The result represents the allowable exemption for the monthly or quarterly cost of drugs.
+History:
+1992 c 549 art 9 s 11
+;
+1993 c 345 art 13 s 20
+;
+1995 c 234 art 9 s 12
+;
+1995 c 264 art 18 s 6
+;
+1999 c 243 art 8 s 6
+;
+1Sp2001 c 5 art 14 s 7
+;
+2002 c 377 art 9 s 8
+;
+2005 c 151 art 2 s 11
+;
+2009 c 88 art 9 s 6
+;
+1Sp2011 c 9 art 6 s 97
+;
+1Sp2019 c 6 art 9 s 8
+; art 16 s 12
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_295-58">
+          <num>295.58</num>
+          <heading>DEPOSIT OF REVENUES AND PAYMENT OF REFUNDS</heading>
+          <subsection eId="295-58__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>, on health maintenance organizations, community integrated service networks, and nonprofit health service plan corporations in the health care access fund. There is annually appropriated from the health care access fund to the commissioner of revenue the amount necessary to make refunds under this chapter.
+History:
+1992 c 549 art 9 s 12
+;
+1993 c 345 art 13 s 21
+;
+1994 c 625 art 13 s 17
+;
+1997 c 225 art 2 s 62
+;
+2000 c 394 art 2 s 26
+;
+2000 c 490 art 9 s 4
+;
+1Sp2011 c 9 art 6 s 97
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-59">
+          <num>295.59</num>
+          <heading>SEVERABILITY</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.59
+295.582
+295.60
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.59
+Version List
+Recent History
+2011 295.59
+Repealed
+2011 c 9 art 6 s 97
+295.59 SEVERABILITY.
+If any section, subdivision, clause, or phrase of sections
+295.50
+to
+295.582
+is for any reason held to be unconstitutional or in violation of federal law, the decision shall not affect the validity of the remaining portions of sections
+295.50
+to
+295.582
+. The legislature declares that it would have passed sections
+295.50
+to
+295.582
+and each section, subdivision, sentence, clause, and phrase thereof, irrespective of the fact that any one or more sections, subdivisions, sentences, clauses, or phrases is declared unconstitutional.
+History:
+1992 c 549 art 9 s 13
+;
+1993 c 345 art 13 s 23
+;
+1Sp2011 c 9 art 6 s 97
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-60">
+          <num>295.60</num>
+          <heading>Section 295.60</heading>
+          <subsection eId="295-60__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2005 c 151 art 8 s 2
+2005 Subd</heading>
+            <content>
+              <p>7
+Amended
+2005 c 151 art 2 s 12
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="295-60__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+New
+2002 c 377 art 10 s 19
+2002 Subd</heading>
+            <content>
+              <p>1b
+New
+2002 c 377 art 10 s 20
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="295-60__subd_1">
+            <num>Subd. 1.</num>
+            <heading>c
+New
+2002 c 377 art 10 s 21
+2002 Subd</heading>
+            <content>
+              <p>2
+Amended
+2002 c 377 art 9 s 9
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="295-60__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a
+New
+2002 c 377 art 9 s 10
+2002 Subd</heading>
+            <content>
+              <p>7
+Amended
+2002 c 377 art 10 s 22
+2001 295.60
+New
+2001 c 5 art 12 s 4
+295.60
+[Repealed,
+2008 c 154 art 12 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-75">
+          <num>295.75</num>
+          <heading>LIQUOR GROSS RECEIPTS TAX</heading>
+          <subsection eId="295-75__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2021 c 14 art 14 s 2
+2011 Subd</heading>
+            <content>
+              <p>9
+Amended
+2011 c 76 art 1 s 44
+2005 295.75
+New
+2005 c 3 art 6 s 9
+295.75 LIQUOR GROSS RECEIPTS TAX.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Definitions</heading>
+            <paragraph eId="295-75__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this section, the following terms have the meanings given.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-75__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Commissioner&quot; means the commissioner of revenue.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-75__subd_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Gross receipts&quot; means the total amount received, in money or by barter or exchange, for all liquor sales at retail as measured by the sales price, but does not include any taxes imposed directly on the consumer that are separately stated on the invoice, bill of sale, or similar document given to the purchaser.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-75__subd_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Liquor&quot; means:</p>
+              </content>
+              <subparagraph eId="295-75__subd_1__para_d__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>intoxicating liquor, as defined in section
+340A.101,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-75__subd_14">
+            <num>Subd. 14.</num>
+            <content>
+              <p>;
+(2) beverage containing intoxicating liquor; and
+(3) 3.2 percent malt liquor, as defined in section
+340A.101,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_19">
+            <num>Subd. 19.</num>
+            <content>
+              <p>, when sold at an on-sale or off-sale municipal liquor store or other establishment licensed to sell any type of intoxicating liquor.</p>
+            </content>
+            <paragraph eId="295-75__subd_19__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Liquor retailer&quot; means a retailer that sells liquor.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-75__subd_19__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Retail sale&quot; has the meaning given in section
+297A.61,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-75__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Gross receipts tax imposed</heading>
+            <content>
+              <p>A tax is imposed on each liquor retailer equal to 2.5 percent of gross receipts from retail sales in Minnesota of liquor. The liquor retailer may, but is not required to, collect the tax from the purchaser. If separately stated on the invoice, bill of sale, or similar document given to the purchaser, the tax is excluded from the sales price for purposes of the tax imposed under chapter 297A.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Use tax imposed; credit for taxes paid</heading>
+            <paragraph eId="295-75__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A person that receives liquor for use or storage in Minnesota, other than from a liquor retailer that paid the tax under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-75__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, is subject to tax at the rate imposed under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Liability for the tax is incurred when the person has possession of the liquor in Minnesota</heading>
+            <content>
+              <p>The tax must be remitted to the commissioner in the same manner prescribed for the taxes imposed under chapter 297A.</p>
+            </content>
+            <paragraph eId="295-75__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person that has paid taxes to another jurisdiction on the same transaction and is subject to tax under this section is entitled to a credit for the tax legally due and paid to another jurisdiction to the extent of the lesser of</p>
+              </content>
+              <subparagraph eId="295-75__subd_2__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax actually paid to the other jurisdiction, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-75__subd_2__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of tax imposed by Minnesota on the transaction subject to tax in the other jurisdiction.
+§</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-75__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Tax collection required</heading>
+            <content>
+              <p>A liquor retailer with nexus in Minnesota, who is not subject to tax under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, is required to collect the tax imposed under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_3">
+            <num>Subd. 3.</num>
+            <heading>from the purchaser of the liquor and give the purchaser a receipt for the tax paid</heading>
+            <content>
+              <p>The tax collected must be remitted to the commissioner in the same manner prescribed for the taxes imposed under chapter 297A.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Taxes paid to another jurisdiction; credit</heading>
+            <content>
+              <p>A liquor retailer that has paid taxes to another jurisdiction measured by gross receipts and is subject to tax under this section on the same gross receipts is entitled to a credit for the tax legally due and paid to another jurisdiction to the extent of the lesser of (1) the tax actually paid to the other jurisdiction, or (2) the amount of tax imposed by Minnesota on the gross receipts subject to tax in the other taxing jurisdictions.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Exemptions</heading>
+            <content>
+              <p>All of the exemptions applicable to the taxes imposed under chapter 297A are applicable to the taxes imposed under this section.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Sourcing of sales</heading>
+            <content>
+              <p>All of the provisions of section
+297A.668
+apply to the taxes imposed by this section.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Payment; reporting</heading>
+            <content>
+              <p>A liquor retailer shall report the tax on a return prescribed by the commissioner of revenue, and shall remit the tax with the return. The return and the tax must be filed and paid using the filing cycle and due dates provided for taxes imposed under chapter 297A.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_9">
+            <num>Subd. 9.</num>
+            <heading>Administration</heading>
+            <content>
+              <p>Unless specifically provided otherwise by this section, the audit, assessment, refund, penalty, interest, enforcement, collection remedies, appeal, and administrative provisions of chapters 270C and 289A that are applicable to taxes imposed under chapter 297A apply to taxes imposed under this section.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_10">
+            <num>Subd. 10.</num>
+            <heading>Interest on overpayments</heading>
+            <content>
+              <p>Interest must be paid on an overpayment refunded or credited to the taxpayer from the date of payment of the tax until the date the refund is paid or credited. For purposes of this subdivision, the date of payment is the due date of the return or the date of actual payment of the tax, whichever is later.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-75__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Deposit of revenues</heading>
+            <content>
+              <p>The commissioner shall deposit all revenues, including penalties and interest, derived from the tax imposed by this section in the general fund.
+History:
+1Sp2005 c 3 art 6 s 9
+;
+2011 c 76 art 1 s 44
+;
+1Sp2021 c 14 art 14 s 2
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-81">
+          <num>295.81</num>
+          <heading>CANNABIS GROSS RECEIPTS TAX</heading>
+          <subsection eId="295-81__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2025 c 13 art 3 s 3
+2025 Subd</heading>
+            <content>
+              <p>10
+Amended
+2025 c 13 art 8 s 18
+2024</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2024 c 121 art 2 s 34
+2023 295</heading>
+            <content>
+              <p>81
+New
+2023 c 63 art 2 s 9
+295.81 CANNABIS GROSS RECEIPTS TAX.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Definitions</heading>
+            <paragraph eId="295-81__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this section, the following terms have the meanings given.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Bundled transaction&quot; means the retail sale of two or more products when the products are otherwise distinct and identifiable and the products are sold for one nonitemized price.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Cannabis flower&quot; has the meaning given in section
+342.01,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_16">
+            <num>Subd. 16.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="295-81__subd_16__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Cannabis product&quot; has the meaning given in section
+342.01,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_20">
+            <num>Subd. 20.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="295-81__subd_20__para_e">
+              <num>(e)</num>
+              <content>
+                <p>&quot;Cannabis solution product&quot; means any cartridge, bottle, or other package that contains a taxable cannabis product in a solution that is consumed or meant to be consumed through the use of a heating element, power source, electronic circuit, or other electronic, chemical, or mechanical means that produces vapor or aerosol. A cannabis solution product includes any electronic delivery system, electronic vaping device, electronic vape pen, electronic oral device, electronic delivery device, or similar product or device, and any batteries, heating elements, or other components, parts, or accessories sold with and meant to be used in the consumption of a solution containing a taxable cannabis product.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_f">
+              <num>(f)</num>
+              <content>
+                <p>&quot;Cannabis mezzobusiness&quot; means a cannabis business licensed under section
+342.29
+.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_g">
+              <num>(g)</num>
+              <content>
+                <p>&quot;Cannabis microbusiness&quot; means a cannabis business licensed under section
+342.28
+.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_h">
+              <num>(h)</num>
+              <content>
+                <p>&quot;Cannabis retailer&quot; means a cannabis business licensed under section
+342.32
+.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_i">
+              <num>(i)</num>
+              <content>
+                <p>&quot;Commissioner&quot; means the commissioner of revenue.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_j">
+              <num>(j)</num>
+              <content>
+                <p>&quot;Gross receipts&quot; means the total amount received in money or by barter or exchange for all taxable cannabis product sales at retail as measured by the sales price. Gross receipts include but are not limited to delivery charges and packaging costs. Gross receipts do not include:</p>
+              </content>
+              <subparagraph eId="295-81__subd_20__para_j__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>any taxes imposed directly on the customer that are separately stated on the invoice, bill of sale, or similar document given to the purchaser; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-81__subd_20__para_j__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>discounts, including cash, terms, or coupons, that are not reimbursed by a third party and that are allowed by the seller and taken by a purchaser on a sale.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-81__subd_20__para_k">
+              <num>(k)</num>
+              <content>
+                <p>&quot;Hemp-derived consumer product&quot; has the meaning given in section
+342.01
+,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_37">
+            <num>Subd. 37.</num>
+            <paragraph eId="295-81__subd_37__para_l">
+              <num>(l)</num>
+              <content>
+                <p>&quot;Lower-potency hemp edible&quot; has the meaning given in section
+342.01,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_50">
+            <num>Subd. 50.</num>
+            <paragraph eId="295-81__subd_50__para_m">
+              <num>(m)</num>
+              <content>
+                <p>&quot;Lower-potency hemp edible retailer&quot; means a cannabis business licensed under section
+342.43,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, clause (2).</p>
+            </content>
+            <paragraph eId="295-81__subd_1__para_n">
+              <num>(n)</num>
+              <content>
+                <p>&quot;Medical cannabis flower&quot; has the meaning given in section
+342.01,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_54">
+            <num>Subd. 54.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="295-81__subd_54__para_o">
+              <num>(o)</num>
+              <content>
+                <p>&quot;Medical cannabinoid product&quot; has the meaning given in section
+342.01,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_52">
+            <num>Subd. 52.</num>
+            <paragraph eId="295-81__subd_52__para_p">
+              <num>(p)</num>
+              <content>
+                <p>&quot;Medical cannabis paraphernalia&quot; has the meaning given in section
+342.01
+,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_55">
+            <num>Subd. 55.</num>
+            <paragraph eId="295-81__subd_55__para_q">
+              <num>(q)</num>
+              <content>
+                <p>&quot;Retail sale&quot; has the meaning given in section
+297A.61,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="295-81__subd_4__para_r">
+              <num>(r)</num>
+              <content>
+                <p>&quot;Taxable cannabis product&quot; means cannabis flower, cannabis product, cannabis solution product, hemp-derived consumer product, lower-potency hemp edible, and any substantially similar item.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_4__para_s">
+              <num>(s)</num>
+              <content>
+                <p>&quot;Taxable cannabis product retailer&quot; means a retailer that sells any taxable cannabis product, and includes a cannabis retailer, cannabis microbusiness, cannabis mezzobusiness, medical cannabis combination business, and lower-potency hemp edible retailer. Taxable cannabis product retailer includes but is not limited to a:</p>
+              </content>
+              <subparagraph eId="295-81__subd_4__para_s__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>retailer maintaining a place of business in this state;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-81__subd_4__para_s__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>marketplace provider maintaining a place of business in this state, as defined in section
+297A.66,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Gross receipts tax imposed</heading>
+            <paragraph eId="295-81__subd_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A tax equal to 15 percent of gross receipts from retail sales in Minnesota of taxable cannabis products is imposed on any taxable cannabis product retailer that sells these products to customers. A taxable cannabis product retailer may but is not required to collect the tax imposed by this section from the purchaser as long as the tax is separately stated on the receipt, invoice, bill of sale, or similar document given to the purchaser.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If a product subject to the tax imposed under this section is included in a bundled transaction, the entire sales price of the bundled transaction is subject to the tax imposed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The tax imposed under this section is in addition to any other tax imposed on the sale or use of taxable cannabis products.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Use tax imposed; credit for taxes paid</heading>
+            <paragraph eId="295-81__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A person that receives taxable cannabis products for use or storage in Minnesota, other than from a taxable cannabis product retailer that paid the tax under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, is subject to tax at the rate imposed under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Liability for the tax is incurred when the person has possession of the taxable cannabis product in Minnesota</heading>
+            <content>
+              <p>The tax must be remitted to the commissioner in the same manner prescribed for taxes imposed under chapter 297A.</p>
+            </content>
+            <paragraph eId="295-81__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>A person that has paid taxes to another state or any subdivision thereof on the same transaction and is subject to tax under this section is entitled to a credit for the tax legally due and paid to another state or subdivision thereof to the extent of the lesser of</p>
+              </content>
+              <subparagraph eId="295-81__subd_2__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax actually paid to the other state or subdivision thereof, or</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-81__subd_2__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the amount of tax imposed by Minnesota on the transaction subject to tax in the other state or subdivision thereof.
+§</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Exemptions</heading>
+            <paragraph eId="295-81__subd_4__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The use tax imposed under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+            <paragraph eId="295-81__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The tax imposed under this section does not apply to sales of medical items purchased by or for a patient enrolled in the registry program, including medical cannabis flower, medical cannabinoid products, or medical cannabis paraphernalia.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_3__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Unless otherwise specified in this section, the exemptions applicable to taxes imposed under chapter 297A are not applicable to the taxes imposed under this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-81__subd_3__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The tax imposed under this section does not apply to:</p>
+              </content>
+              <subparagraph eId="295-81__subd_3__para_d__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>sales made on Tribally regulated land as defined in section
+3.9228,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, by a cannabis business licensed by a Minnesota Tribal government, as defined in section
+3.9228,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, from a cannabis business licensed by a Minnesota Tribal government as defined in section
+3.9228,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Tax collection required</heading>
+            <content>
+              <p>A taxable cannabis product retailer with nexus in Minnesota that is not subject to tax under</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_2">
+            <num>Subd. 2.</num>
+            <heading>is required to collect the tax imposed under subdivision 3 from the purchaser of the taxable cannabis product and give the purchaser a receipt for the tax paid</heading>
+            <content>
+              <p>The tax collected must be remitted to the commissioner in the same manner prescribed for the taxes imposed under chapter 297A.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Taxes paid to another state or any subdivision thereof; credit</heading>
+            <content>
+              <p>A taxable cannabis product retailer that has paid taxes to another state or any subdivision thereof measured by gross receipts and is subject to tax under this section on the same gross receipts is entitled to a credit for the tax legally due and paid to another state or any subdivision thereof to the extent of the lesser of (1) the tax actually paid to the other state or any subdivision thereof, or (2) the amount of tax imposed by Minnesota on the gross receipts subject to tax in the other taxing state or any subdivision thereof.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Sourcing of sales</heading>
+            <content>
+              <p>Section
+297A.668
+applies to the taxes imposed by this section.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Administration</heading>
+            <content>
+              <p>Unless specifically provided otherwise, the audit, assessment, refund, penalty, interest, enforcement, collection remedies, appeal, and administrative provisions of chapters 270C and 289A that are applicable to taxes imposed under chapter 297A, except the requirement to file returns and remit taxes due electronically if authorized under section
+289A.33
+, apply to the tax imposed under this section.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_9">
+            <num>Subd. 9.</num>
+            <heading>Returns; payment of tax</heading>
+            <paragraph eId="295-81__subd_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>A taxable cannabis product retailer must report the tax on a return prescribed by the commissioner and must remit the tax in a form and manner prescribed by the commissioner. The return and the tax must be filed and paid using the filing cycle and due dates provided for taxes imposed under section
+289A.20,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, and chapter 297A.</p>
+            </content>
+            <paragraph eId="295-81__subd_4__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Interest must be paid on an overpayment refunded or credited to the taxpayer from the date of payment of the tax until the date the refund is paid or credited. For purposes of this subdivision, the date of payment is the due date of the return or the date of actual payment of the tax, whichever is later.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-81__subd_10">
+            <num>Subd. 10.</num>
+            <heading>Deposit of revenues; account established</heading>
+            <content>
+              <p>The commissioner must deposit the revenues, including penalties and interest, derived from the tax imposed by this section in the general fund.
+[See Note.]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Personal debt</heading>
+            <content>
+              <p>The tax imposed by this section, and interest and penalties imposed with respect to it, are a personal debt of the person required to file a return from the time that the liability for it arises, irrespective of when the time for payment of the liability occurs. The debt must, in the case of the executor or administrator of the estate of a decedent and in the case of a fiduciary, be that of the person in the person's official or fiduciary capacity only, unless the person has voluntarily distributed the assets held in that capacity without reserving sufficient assets to pay the tax, interest, and penalties, in which event the person is personally liable for any deficiency.
+History:
+2023 c 63 art 2 s 9
+;
+2024 c 121 art 2 s 34
+;
+1Sp2025 c 13 art 3 s 3
+; art 8 s 18
+NOTE:
+The amendment to</p>
+            </content>
+          </subsection>
+          <subsection eId="295-81__subd_10">
+            <num>Subd. 10.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-82">
+          <num>295.82</num>
+          <heading>CANNABIS LOCAL TAX PROHIBITED</heading>
+          <subsection eId="295-82__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_295-361">
+          <num>295.361</num>
+          <heading>Section 295.361</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.361
+295.36
+295.365
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.361
+Version List
+295.361
+[Repealed,
+1969 c 399 s 51
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-365">
+          <num>295.365</num>
+          <heading>Section 295.365</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.365
+295.361
+295.366
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.365
+Version List
+295.365
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-366">
+          <num>295.366</num>
+          <heading>Section 295.366</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.366
+295.365
+295.367
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.366
+Version List
+295.366
+[Repealed,
+1987 c 268 art 11 s 11
+clause (b)]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-367">
+          <num>295.367</num>
+          <heading>Section 295.367</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.367
+295.366
+295.37
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.367
+Version List
+295.367
+[Repealed,
+1992 c 511 art 8 s 38
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-441">
+          <num>295.441</num>
+          <heading>Section 295.441</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.441
+295.44
+295.50
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.441
+Version List
+295.441
+MS 2006 [Renumbered
+15.001
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-581">
+          <num>295.581</num>
+          <heading>PROHIBITION ON NON-MINNESOTACARE TRANSFERS FROM FUND</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 295
+Section 295.581
+295.58
+295.582
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 295
+Table of Sections
+Full Chapter Text
+Version List
+Section 295.581
+Version List
+Recent History
+2011 295.581
+Repealed
+2011 c 9 art 6 s 97
+1995 295.581 New
+1995 c 234 art 9 s 13
+295.581 PROHIBITION ON NON-MINNESOTACARE TRANSFERS FROM FUND.
+Notwithstanding any law to the contrary, and notwithstanding section
+645.33
+, money in the health care access fund shall be appropriated only for purposes that are consistent with past and current MinnesotaCare appropriations in Laws 1992, chapter 549; Laws 1993, chapter 345; Laws 1994, chapter 625; and Laws 1995, chapter 234, or for initiatives that are part of the section 1115 of the Social Security Act health care reform waiver submitted to the federal Centers for Medicare and Medicaid Services by the commissioner of human services as appropriated in Laws 1995, chapter 234.
+History:
+1995 c 234 art 9 s 13
+;
+2002 c 277 s 32
+;
+1Sp2011 c 9 art 6 s 97
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_295-582">
+          <num>295.582</num>
+          <heading>AUTHORITY</heading>
+          <subsection eId="295-582__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2019 c 6 art 16 s 13
+2011 295</heading>
+            <content>
+              <p>582
+Repealed
+2011 c 9 art 6 s 97
+2005 295.582
+Amended
+2005 c 4 art 5 s 15
+2005 295.582
+Amended
+2005 c 77 s 7
+1997 295.582
+Other
+1997 c 225 art 3 s 23
+1997 295.582
+Amended
+1997 c 225 art 3 s 21
+1997 295.582
+Amended
+1997 c 31 art 4 s 12
+1995 295.582 Amended
+1995 c 234 art 9 s 14
+1994 295.582 Amended
+1994 c 625 art 13 s 18
+295.582 AUTHORITY.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="295-582__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Tax expense transfer</heading>
+            <paragraph eId="295-582__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>The tax expense generated by section
+295.52
+may be transferred as follows:</p>
+              </content>
+              <subparagraph eId="295-582__subd_1__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>a hospital, surgical center, or health care provider subject to the tax under section
+295.52
+may transfer the tax expense to all third-party contracts for the purchase of health care services on behalf of a patient or consumer;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-582__subd_1__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>a wholesale drug distributor subject to the tax under section
+295.52
+may transfer the tax expense to entities that purchase legend drugs from the wholesale drug distributor; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-582__subd_1__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>a pharmacy that has paid the tax expense transferred by a wholesale drug distributor may transfer the tax expense to all third-party contracts for the purchase of health care services on behalf of a patient or consumer. Nothing shall prohibit a pharmacy from transferring the tax expense generated under section
+295.52
+to a pharmacy benefits manager.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The transfer of the tax expense under paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>must comply with the following:</p>
+              </content>
+              <subparagraph eId="295-582__subd_1__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the tax expense transferred to the third-party purchaser or a pharmacy benefits manager must not exceed the tax percentage specified in section
+295.52
+multiplied against:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_i">
+              <num>(i)</num>
+              <content>
+                <p>gross revenues received under the third-party contract; and
+(ii) co-payments and deductibles paid by the individual patient or consumer; and</p>
+              </content>
+              <subparagraph eId="295-582__subd_1__para_i__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the tax expense must not be generated on revenues derived from payments that are excluded or exempted from the tax under section
+295.53
+.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Payment of the transferred tax expense is required as follows:</p>
+              </content>
+              <subparagraph eId="295-582__subd_1__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>all third-party purchasers of health care services, including but not limited to third-party purchasers regulated under chapter 60A, 62A, 62C, 62D, 62H, 62N, 64B, 65A, 65B, 79, or 79A, or under section
+471.61
+or
+471.617
+, and pharmacy benefits managers must pay the transferred expense. This is in addition to any payments due under existing contracts with the hospital, surgical center, pharmacy, or health care provider, to the extent allowed under federal law; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="295-582__subd_1__para_c__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>all entities that purchase legend drugs from a wholesale drug distributor must pay the transferred expense.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A third-party purchaser or pharmacy benefits manager must comply with this section regardless of whether the third-party purchaser or pharmacy benefits manager is a for-profit, not-for-profit, or nonprofit entity.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_e">
+              <num>(e)</num>
+              <content>
+                <p>Nothing in this section limits the ability of a hospital, surgical center, health care provider, pharmacy, or wholesale drug distributor to recover all or part of the section
+295.52
+obligation by other methods, including increasing fees or charges.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_f">
+              <num>(f)</num>
+              <content>
+                <p>Any hospital, surgical center, or health care provider subject to a tax under section
+295.52
+or a pharmacy that has paid the additional expense transferred under this section by a wholesale drug distributor may file a complaint with the commissioner responsible for regulating the third-party purchaser if at any time the third-party purchaser fails to comply with this section.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="295-582__subd_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>If the commissioner responsible for regulating the third-party purchaser finds at any time that the third-party purchaser has not complied with this section, the commissioner may take enforcement action against a third-party purchaser which is subject to the commissioner's regulatory jurisdiction and which does not allow a hospital, surgical center, pharmacy, or provider to pass-through the tax expense. The commissioner may by order fine or censure the third-party purchaser or revoke or suspend the certificate of authority or license of the third-party purchaser to do business in this state if the commissioner finds that the third-party purchaser has not complied with this section. The third-party purchaser may appeal the commissioner's order through a contested case hearing in accordance with chapter 14.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="295-582__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Agreement</heading>
+            <content>
+              <p>A contracting agreement between a third-party purchaser or a pharmacy benefits manager and a resident or nonresident pharmacy registered under chapter 151, may not prohibit:
+(1) a pharmacy that has paid additional expense transferred under this section by a wholesale drug distributor from exercising its option under this section to transfer such additional expenses generated by the section
+295.52
+obligations on to the third-party purchaser or pharmacy benefits manager; or
+(2) a pharmacy that is subject to tax under section
+295.52,</p>
+            </content>
+          </subsection>
+          <subsection eId="295-582__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>, from exercising its option under this section to recover all or part of the section
+295.52
+obligations from the third-party purchaser or a pharmacy benefits manager.
+History:
+1993 c 345 art 13 s 22
+;
+1Sp1993 c 6 s 29
+;
+1994 c 625 art 13 s 18
+;
+1995 c 234 art 9 s 14
+;
+1997 c 31 art 4 s 12
+;
+1997 c 225 art 3 s 21
+,23;
+1997 c 251 s 28
+;
+2005 c 77 s 7
+;
+1Sp2005 c 4 art 5 s 15
+;
+1Sp2011 c 9 art 6 s 97
+;
+1Sp2019 c 6 art 16 s 13
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

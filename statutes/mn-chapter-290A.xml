@@ -1,0 +1,3334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="MN-Statutes">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-290A"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-290A"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#mn-legislature"/>
+          <FRBRcountry value="us-mn"/>
+          <FRBRnumber value="290A"/>
+          <FRBRname value="Minnesota-Statutes"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-290A/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-290A/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-290A/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-290A/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="mn-legislature" href="https://www.revisor.mn.gov" showAs="Minnesota State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_290A">
+        <num>290A</num>
+        <heading>Property Tax Refund</heading>
+        <section eId="sec_290A-01">
+          <num>290A.01</num>
+          <heading>CITATION</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.01
+290A.02
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.01
+Version List
+290A.01 CITATION.
+This chapter may be cited as the &quot;State of Minnesota Property Tax Refund Act.&quot;
+History:
+1975 c 437 art 1 s 1
+;
+1977 c 423 art 2 s 1
+;
+1Sp1981 c 4 art 1 s 137
+;
+1984 c 514 art 4 s 17
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-02">
+          <num>290A.02</num>
+          <heading>PURPOSE</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.02
+290A.01
+290A.03
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.02
+Version List
+Recent History
+2023 290A.02
+Amended
+2023 c 64 art 7 s 10
+290A.02 PURPOSE.
+The purpose of this chapter is to provide property tax relief to certain persons who own their homesteads.
+History:
+1975 c 437 art 1 s 2
+;
+1Sp1981 c 4 art 1 s 138
+;
+1984 c 514 art 4 s 17
+;
+2023 c 64 art 7 s 10
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-03">
+          <num>290A.03</num>
+          <heading>DEFINITIONS</heading>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2025 c 13 art 1 s 17
+2024 Subd</heading>
+            <content>
+              <p>16
+Amended
+2024 c 96 art 2 s 8
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2023 c 64 art 7 s 11
+2023 Subd</heading>
+            <content>
+              <p>6
+Amended
+2023 c 64 art 7 s 12
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+2023 c 64 art 3 s 25
+2023 Subd</heading>
+            <content>
+              <p>8
+Amended
+2023 c 64 art 7 s 13
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>Repealed
+2023 c 64 art 7 s 31
+2023 Subd</heading>
+            <content>
+              <p>11
+Repealed
+2023 c 64 art 7 s 31
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_12">
+            <num>Subd. 12.</num>
+            <heading>Amended
+2023 c 64 art 7 s 14
+2023 Subd</heading>
+            <content>
+              <p>13
+Amended
+2023 c 64 art 16 s 5
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+2023 c 64 art 7 s 15
+2023 Subd</heading>
+            <content>
+              <p>15
+Amended
+2023 c 64 art 2 s 5
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2023 c 1 s 20
+2023 Subd</heading>
+            <content>
+              <p>16
+New
+2023 c 64 art 7 s 16
+2021</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2021 c 14 art 6 s 14
+2019 Subd</heading>
+            <content>
+              <p>3
+Amended
+2019 c 6 art 24 s 13
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2019 c 6 art 1 s 62
+2019 Subd</heading>
+            <content>
+              <p>4
+Amended
+2019 c 6 art 24 s 14
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Amended
+2019 c 6 art 24 s 15
+2019 Subd</heading>
+            <content>
+              <p>8
+Amended
+2019 c 50 art 1 s 94
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_12">
+            <num>Subd. 12.</num>
+            <heading>Revisor Instruction
+2019 c 6 art 1 s 73
+2019 Subd</heading>
+            <content>
+              <p>12
+Amended
+2019 c 6 art 1 s 63
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_12">
+            <num>Subd. 12.</num>
+            <heading>Amended
+2019 c 50 art 1 s 95
+2019 Subd</heading>
+            <content>
+              <p>13
+Amended
+2019 c 6 art 4 s 25
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2019 c 6 art 1 s 64
+2017 Subd</heading>
+            <content>
+              <p>3
+Amended
+2017 c 1 art 17 s 2
+2025</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Revisor Instruction
+2017 c 6 art 2 s 39
+2017 Subd</heading>
+            <content>
+              <p>8
+Amended
+2017 c 40 art 1 s 101
+2017</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+2017 c 1 art 1 s 31
+2017 Subd</heading>
+            <content>
+              <p>15
+Amended
+2017 c 1 s 7
+2015</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2015 c 1 s 4
+2014 Subd</heading>
+            <content>
+              <p>15
+Amended
+2014 c 308 art 4 s 16
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2014 c 150 art 1 s 22
+2013 Subd</heading>
+            <content>
+              <p>3
+Amended
+2013 c 143 art 1 s 1
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2013 c 3 s 5
+2011 Subd</heading>
+            <content>
+              <p>11
+Amended
+2011 c 7 art 6 s 8
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+2011 c 7 art 6 s 9
+2011 Subd</heading>
+            <content>
+              <p>15
+Amended
+2011 c 7 art 2 s 8
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2011 c 8 s 6
+2010 Subd</heading>
+            <content>
+              <p>15
+Amended
+2010 c 216 s 14
+2009</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2009 c 88 art 1 s 11
+2009 Subd</heading>
+            <content>
+              <p>3
+Amended
+2009 c 12 art 1 s 9
+2009</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2009 c 88 art 1 s 12
+2009 Subd</heading>
+            <content>
+              <p>15
+Amended
+2009 c 12 art 1 s 10
+2008</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Amended
+2008 c 154 art 11 s 19
+2008 Subd</heading>
+            <content>
+              <p>15
+Amended
+2008 c 154 art 4 s 8
+2007</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2007 c 1 s 4
+2006 Subd</heading>
+            <content>
+              <p>15
+Amended
+2006 c 259 art 2 s 7
+2005</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Amended
+2005 c 3 art 4 s 16
+2005 Subd</heading>
+            <content>
+              <p>15
+Amended
+2005 c 3 art 4 s 17
+2003</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Amended
+2003 c 127 art 2 s 20
+2003 Subd</heading>
+            <content>
+              <p>15
+Amended
+2003 c 21 art 3 s 4
+2003</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2003 c 127 art 4 s 4
+2002 Subd</heading>
+            <content>
+              <p>3
+Amended
+2002 c 377 art 10 s 17
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+2002 c 379 art 1 s 67
+2002 Subd</heading>
+            <content>
+              <p>15
+Amended
+2002 c 377 art 2 s 12
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+2001 c 5 art 4 s 1
+2001 Subd</heading>
+            <content>
+              <p>12
+Amended
+2001 c 5 art 7 s 44
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+2001 c 5 art 4 s 2
+2001 Subd</heading>
+            <content>
+              <p>15
+Amended
+2001 c 5 art 10 s 9
+2000</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+2000 c 490 art 12 s 4
+1999 Subd</heading>
+            <content>
+              <p>3
+Amended
+1999 c 243 art 2 s 28
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+1999 c 243 art 5 s 27
+1999 Subd</heading>
+            <content>
+              <p>7
+Amended
+1999 c 159 s 128
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+1999 c 243 art 3 s 5
+1998 Subd</heading>
+            <content>
+              <p>3
+Amended
+1998 c 389 art 7 s 9
+1998</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Amended
+1998 c 389 art 2 s 18
+1998 Subd</heading>
+            <content>
+              <p>13
+Amended
+1998 c 389 art 2 s 19
+1998</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Amended
+1998 c 389 art 7 s 10
+1997 Subd</heading>
+            <content>
+              <p>7
+Amended
+1997 c 231 art 5 s 11
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Amended
+1997 c 231 art 5 s 12
+1997 Subd</heading>
+            <content>
+              <p>12a
+Repealed
+1997 c 231 art 5 s 19
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+1997 c 231 art 5 s 13
+1997 Subd</heading>
+            <content>
+              <p>13
+Amended
+1997 c 231 art 1 s 14
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_14">
+            <num>Subd. 14.</num>
+            <heading>Repealed
+1997 c 231 art 5 s 19
+1995 Subd</heading>
+            <content>
+              <p>6 Amended
+1995 c 264 art 3 s 22
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+1995 c 264 art 4 s 10
+1995 Subd</heading>
+            <content>
+              <p>13 Amended
+1995 c 264 art 3 s 23
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Amended
+1994 c 416 art 1 s 40
+290A</heading>
+            <content>
+              <p>03 DEFINITIONS.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Generally</heading>
+            <content>
+              <p>The following words, terms, and phrases when used in this chapter shall have the meaning ascribed to them in this section, except where the context indicates a different meaning.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Commissioner</heading>
+            <content>
+              <p>&quot;Commissioner&quot; means the commissioner of revenue of the state of Minnesota.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Income</heading>
+            <paragraph eId="290A-03__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Income&quot; means the sum of the following:</p>
+              </content>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>federal adjusted gross income as defined in the Internal Revenue Code; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the sum of the following amounts to the extent not included in clause (1):</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>all nontaxable income;
+(ii) the amount of a passive activity loss that is not disallowed as a result of section 469, paragraph</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_m">
+              <num>(m)</num>
+              <content>
+                <p>of the Internal Revenue Code and the amount of passive activity loss carryover allowed under section 469</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>of the Internal Revenue Code;
+(iii) an amount equal to the total of any discharge of qualified farm indebtedness of a solvent individual excluded from gross income under section 108</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_g">
+              <num>(g)</num>
+              <content>
+                <p>of the Internal Revenue Code;
+(iv) cash public assistance and relief;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_v">
+              <num>(v)</num>
+              <content>
+                <p>any pension or annuity (including railroad retirement benefits, all payments received under the federal Social Security Act, Supplemental Security Income, and veterans benefits), which was not exclusively funded by the claimant or spouse, or which was funded exclusively by the claimant or spouse and which funding payments were excluded from federal adjusted gross income in the years when the payments were made;
+(vi) interest received from the federal or a state government or any instrumentality or political subdivision thereof;
+(vii) workers' compensation;
+(viii) nontaxable strike benefits;
+(ix) the gross amounts of payments received in the nature of disability income or sick pay as a result of accident, sickness, or other disability, whether funded through insurance or otherwise;</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_x">
+              <num>(x)</num>
+              <content>
+                <p>a lump-sum distribution under section 402(e)</p>
+              </content>
+              <subparagraph eId="290A-03__subd_3__para_x__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code of 1986, as amended through December 31, 1995;
+(xi) contributions made by the claimant to an individual retirement account, including a qualified voluntary employee contribution; simplified employee pension plan; self-employed retirement plan; cash or deferred arrangement plan under section 401</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_k">
+              <num>(k)</num>
+              <content>
+                <p>of the Internal Revenue Code; or deferred compensation plan under section 457 of the Internal Revenue Code, to the extent the sum of amounts exceeds the retirement base amount for the claimant and spouse;
+(xii) to the extent not included in federal adjusted gross income, distributions received by the claimant or spouse from a traditional or Roth style retirement account or plan;
+(xiii) nontaxable scholarship or fellowship grants;
+(xiv) alimony received to the extent not included in the recipient's income;
+(xv) the amount of deduction allowed under section 220 or 223 of the Internal Revenue Code;
+(xvi) the amount deducted for tuition expenses under section 222 of the Internal Revenue Code; and
+(xvii) the amount deducted for certain expenses of elementary and secondary school teachers under section 62(a)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Income&quot; does not include:</p>
+              </content>
+              <subparagraph eId="290A-03__subd_3__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>amounts excluded pursuant to the Internal Revenue Code, sections 101</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="290A-03__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>and 102;</p>
+              </content>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>amounts of any pension or annuity which was exclusively funded by the claimant or spouse and which funding payments were not excluded from federal adjusted gross income in the years when the payments were made;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>to the extent included in federal adjusted gross income, amounts contributed by the claimant or spouse to a traditional or Roth style retirement account or plan, but not to exceed the retirement base amount reduced by the amount of contributions excluded from federal adjusted gross income, but not less than zero;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>surplus food or other relief in kind supplied by a governmental agency;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>relief granted under this chapter;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>child support payments received under a temporary or final decree of dissolution or legal separation;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_7">
+                <num>(7)</num>
+                <content>
+                  <p>restitution payments received by eligible individuals and excludable interest as defined in section 803 of the Economic Growth and Tax Relief Reconciliation Act of 2001, Public Law 107-16;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_8">
+                <num>(8)</num>
+                <content>
+                  <p>alimony paid;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_9">
+                <num>(9)</num>
+                <content>
+                  <p>veterans disability compensation paid under title 38 of the United States Code;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_3__para_a__subpara_10">
+                <num>(10)</num>
+                <content>
+                  <p>to the extent included in federal adjusted gross income, the amount of discharge of indebtedness awarded to the claimant under section
+332.74,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>; or
+(11) to the extent included in federal adjusted gross income, the amount of consumer enforcement public compensation received as a distribution to an eligible consumer under section
+8.37,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="290A-03__subd_5__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The sum of the following amounts may be subtracted from income:</p>
+              </content>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>for the claimant's first dependent, the exemption amount multiplied by 1.4;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>for the claimant's second dependent, the exemption amount multiplied by 1.3;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>for the claimant's third dependent, the exemption amount multiplied by 1.2;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>for the claimant's fourth dependent, the exemption amount multiplied by 1.1;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>for the claimant's fifth dependent, the exemption amount; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="290A-03__subd_5__para_c__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>if the claimant or claimant's spouse had a disability or attained the age of 65 on or before December 31 of the year for which the taxes were levied, the exemption amount.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="290A-03__subd_5__para_d">
+              <num>(d)</num>
+              <content>
+                <p>For purposes of this subdivision, the following terms have the meanings given:</p>
+              </content>
+              <subparagraph eId="290A-03__subd_5__para_d__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>&quot;exemption amount&quot; means the exemption amount under section
+290.0121,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-03__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Household</heading>
+            <content>
+              <p>&quot;Household&quot; means a claimant and an individual related to the claimant as the claimant's spouse who are domiciled in the same homestead.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Household income</heading>
+            <content>
+              <p>&quot;Household income&quot; means all income received by all persons of a household in a calendar year while members of the household, other than income of a dependent.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Homestead</heading>
+            <content>
+              <p>&quot;Homestead&quot; means the dwelling occupied as the claimant's principal residence and so much of the land surrounding it, not exceeding ten acres, as is reasonably necessary for use of the dwelling as a home and any other property used for purposes of a homestead as defined in section
+273.13,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_22">
+            <num>Subd. 22.</num>
+            <content>
+              <p>, or section
+273.13,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_25">
+            <num>Subd. 25.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_23">
+            <num>Subd. 23.</num>
+            <content>
+              <p>, &quot;homestead&quot; is limited to the house and garage and immediately surrounding one acre of land. The homestead may be owned as a part of a multidwelling or multipurpose building and the land on which it is built. A manufactured home, as defined in section
+273.125,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>, or a park trailer taxed as a manufactured home under section
+168.012,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, assessed as personal property may be a dwelling for purposes of this subdivision.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_7">
+            <num>Subd. 7.</num>
+            <heading>Dependent</heading>
+            <content>
+              <p>&quot;Dependent&quot; means any person who is considered a dependent under sections 151 and 152 of the Internal Revenue Code.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Claimant</heading>
+            <content>
+              <p>&quot;Claimant&quot; means a person, other than a dependent, as defined under sections 151 and 152 of the Internal Revenue Code disregarding section 152</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>MS 2022 [Repealed,
+2023 c 64 art 7 s 31
+]
+§
+Subd</heading>
+            <content>
+              <p>10.
+Disability.
+&quot;Disability&quot; means:</p>
+            </content>
+            <paragraph eId="290A-03__subd_9__para_a">
+              <num>(a)</num>
+              <content>
+                <p>Inability to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or has lasted or can be expected to last for a continuous period of not less than 12 months, or</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Blindness; and the term &quot;blindness&quot; means central acuity of 20/200 or less in the better eye with the use of a correcting lens. An eye which is accompanied by a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>An individual shall be determined to be under a disability only if the physical or mental impairment or impairments are of such severity that the individual is not only unable to do previous work but cannot, considering age, education, and work experience, engage in any other kind of substantial gainful work which exists in the state economy, regardless of whether the work exists in the immediate area of residence, or whether a specific job vacancy exists for the individual, or whether the individual would be hired on applying for work. For purposes of the preceding sentence, &quot;work which exists in the state economy&quot; means work which exists in significant numbers either in the area where the individual lives or in several areas of the state.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_9__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A &quot;physical or mental impairment&quot; is an impairment that results from anatomical, physiological, or psychological abnormalities which are demonstrable by medically acceptable clinical and laboratory diagnostic techniques.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-03__subd_11">
+            <num>Subd. 11.</num>
+            <heading>MS 2022 [Repealed,
+2023 c 64 art 7 s 31
+]
+§
+Subd</heading>
+            <content>
+              <p>12.
+Gross rent.</p>
+            </content>
+            <paragraph eId="290A-03__subd_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>&quot;Gross rent&quot; means rent paid for the right of occupancy, at arm's length, of a site on which a homestead which is a manufactured home is located.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_11__para_b">
+              <num>(b)</num>
+              <content>
+                <p>If the landlord and tenant have not dealt with each other at arm's length and the commissioner determines that the gross rent charged was excessive, the commissioner may adjust the gross rent to a reasonable amount for purposes of this chapter.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-03__subd_11__para_c">
+              <num>(c)</num>
+              <content>
+                <p>Any amount paid by a claimant residing in property assessed pursuant to section
+273.124,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-03__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>, 4, 5, or 6 for occupancy in that property shall be included within the term &quot;property taxes payable&quot; as defined in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <content>
+              <p>, to the extent allowed, notwithstanding the fact that ownership is not in the name of the claimant.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_12">
+            <num>Subd. 12.</num>
+            <heading>a</heading>
+            <content>
+              <p>[Repealed,
+1997 c 231 art 5 s 19
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_13">
+            <num>Subd. 13.</num>
+            <heading>Property taxes payable</heading>
+            <content>
+              <p>&quot;Property taxes payable&quot; means the property tax exclusive of special assessments, penalties, and interest payable on a claimant's homestead after deductions made under sections
+273.135
+,
+273.1384
+,
+273.1391
+,
+273.42,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, and any other state paid property tax credits in any calendar year, and after any refund claimed and allowable under section
+290A.04,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h
+, that is first payable in the year that the property tax is payable</heading>
+            <content>
+              <p>In the case of a claimant who makes ground lease payments, &quot;property taxes payable&quot; includes the amount of the payments directly attributable to the property taxes assessed against the parcel on which the house is located. Regardless of the limitations in section 280A</p>
+            </content>
+            <paragraph eId="290A-03__subd_2__para_i">
+              <num>(i)</num>
+              <content>
+                <p>the property must have been classified as homestead property pursuant to section
+273.124
+, on or before December 31 of the assessment year to which the &quot;property taxes payable&quot; relate; or (ii) the claimant must provide documentation from the local assessor that application for homestead classification has been made on or before December 31 of the year in which the &quot;property taxes payable&quot; were payable and that the assessor has approved the application.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-03__subd_14">
+            <num>Subd. 14.</num>
+            <content>
+              <p>[Repealed,
+1997 c 231 art 5 s 19
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_15">
+            <num>Subd. 15.</num>
+            <heading>Internal Revenue Code</heading>
+            <content>
+              <p>&quot;Internal Revenue Code&quot; means the Internal Revenue Code of 1986, as amended through May 1, 2023.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_16">
+            <num>Subd. 16.</num>
+            <heading>Manufactured home</heading>
+            <content>
+              <p>&quot;Manufactured home&quot; means homesteads that are manufactured homes as defined in section
+273.125,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>, including manufactured homes located in a manufactured home community owned by a cooperative organized under chapter 308A, 308B, or 308C, and park trailers taxed as manufactured homes under section
+168.012
+,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>[See Note.]
+History:
+1975 c 359 s 23
+;
+1975 c 437 art 1 s 3
+;
+1976 c 245 s 2
+;
+1976 c 268 s 2
+;
+1976 c 334 s 15
+;
+1977 c 376 s 12
+;
+1977 c 423 art 2 s 2
+-8;
+1978 c 721 art 9 s 2
+;
+1979 c 303 art 2 s 28
+-30;
+1980 c 419 s 43
+,44;
+1980 c 607 art 3 s 1
+;
+1981 c 60 s 24
+;
+1981 c 178 s 112
+,113;
+1981 c 343 s 36
+;
+1981 c 365 s 9
+;
+1Sp1981 c 1 art 3 s 2
+; art 5 s 9; art 8 s 16;
+1Sp1981 c 4 art 1 s 139
+-143;
+1982 c 523 art 1 s 63
+,64; art 8 s 1; art 36 s 2; art 40 s 13;
+1983 c 15 s 28
+;
+1983 c 294 s 4
+,5;
+1983 c 342 art 1 s 40
+; art 4 s 1-5;
+1984 c 514 art 1 s 7
+; art 2 s 32,33; art 3 s 8; art 4 s 10,11,17;
+1984 c 522 s 9
+,10;
+1984 c 655 art 1 s 51
+;
+1985 c 210 art 1 s 17
+; art 2 s 9;
+1Sp1985 c 14 art 1 s 58
+; art 4 s 85-88; art 5 s 1;
+1986 c 444
+;
+1Sp1986 c 1 art 1 s 8
+; art 3 s 20; art 4 s 38,39;
+1987 c 268 art 3 s 1
+-3; art 6 s 46,47;
+1988 c 719 art 3 s 10
+; art 4 s 1-4; art 5 s 84;
+1989 c 28 s 25
+;
+1989 c 277 art 2 s 46
+;
+1989 c 329 art 15 s 20
+;
+1990 c 480 art 5 s 10
+;
+1990 c 604 art 2 s 16
+; art 5 s 1,2;
+1991 c 199 art 2 s 1
+;
+1991 c 291 art 6 s 40
+,41,46;
+1992 c 511 art 6 s 19
+; art 7 s 19;
+1993 c 13 art 2 s 9
+;
+1993 c 375 art 6 s 1
+-3; art 8 s 14;
+1994 c 416 art 1 s 40
+;
+1994 c 465 art 2 s 1
+;
+1994 c 587 art 1 s 24
+;
+1995 c 186 s 119
+; 1995 c 264 art 1, s 4; art 3 s 22,23; art 4 s 10;
+1996 c 471 art 3 s 52
+;
+1997 c 231 art 1 s 14
+; art 2 s 70; art 5 s 11-13; art 6 s 24;
+1998 c 389 art 2 s 18
+,19; art 7 s 9,10;
+1999 c 159 s 128
+;
+1999 c 243 art 2 s 28
+; art 3 s 5; art 5 s 27;
+2000 c 490 art 12 s 4
+;
+1Sp2001 c 5 art 4 s 1
+,2; art 7 s 44; art 10 s 9;
+2002 c 377 art 2 s 12
+; art 10 s 17;
+2002 c 379 art 1 s 67
+;
+2003 c 127 art 2 s 20
+; art 4 s 4;
+1Sp2003 c 21 art 3 s 4
+;
+1Sp2005 c 3 art 4 s 16
+,17;
+2006 c 259 art 2 s 7
+;
+2007 c 1 s 4
+;
+2008 c 154 art 4 s 8
+; art 11 s 19;
+2009 c 12 art 1 s 9
+,10;
+2009 c 88 art 1 s 11
+,12;
+2010 c 216 s 14
+;
+1Sp2010 c 1 art 13 s 4
+;
+2011 c 8 s 6
+;
+1Sp2011 c 7 art 2 s 8
+; art 6 s 8,9;
+2013 c 3 s 5
+;
+2013 c 143 art 1 s 1
+;
+2014 c 150 art 1 s 22
+;
+2014 c 308 art 4 s 16
+;
+2015 c 1 s 4
+;
+2017 c 1 s 7
+;
+2017 c 40 art 1 s 101
+;
+1Sp2017 c 1 art 1 s 31
+; art 17 s 2;
+1Sp2017 c 6 art 2 s 39
+;
+2019 c 50 art 1 s 94
+,95;
+1Sp2019 c 6 art 1 s 62
+-64,73; art 4 s 25; art 24 s 13-15;
+1Sp2021 c 14 art 6 s 14
+;
+2023 c 1 s 20
+;
+2023 c 64 art 2 s 5
+; art 3 s 25; art 7 s 11-16; art 16 s 5;
+2024 c 96 art 2 s 8
+;
+1Sp2025 c 13 art 1 s 17
+NOTE:
+The amendment to</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-03__subd_16">
+            <num>Subd. 16.</num>
+            <heading>by Laws 2024, chapter 96, article 2, section 8, is effective August 1, 2026</heading>
+            <content>
+              <p>Laws 2024, chapter 96, article 2, section 13, as amended by Laws 2025, chapter 32, article 4, section 13.
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-04">
+          <num>290A.04</num>
+          <heading>REFUND ALLOWABLE</heading>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h
+Amended
+2024 c 85 s 92
+2023 Subd</heading>
+            <content>
+              <p>1
+Amended
+2023 c 64 art 7 s 17
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2023 c 64 art 4 s 2
+2023 Subd</heading>
+            <content>
+              <p>2a
+Repealed
+2023 c 64 art 7 s 31
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h
+Amended
+2023 c 64 art 7 s 18
+2023 Subd</heading>
+            <content>
+              <p>4
+Amended
+2023 c 64 art 4 s 3
+2023</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Amended
+2023 c 64 art 7 s 19
+2019 Subd</heading>
+            <content>
+              <p>2
+Revisor Instruction
+2019 c 6 art 1 s 73
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a
+Revisor Instruction
+2019 c 6 art 1 s 73
+2019 Subd</heading>
+            <content>
+              <p>4
+Amended
+2019 c 6 art 1 s 65
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2013 c 143 art 1 s 2
+2013 Subd</heading>
+            <content>
+              <p>2a
+Amended
+2013 c 143 art 1 s 3
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2013 c 143 art 1 s 4
+2011 Subd</heading>
+            <content>
+              <p>2
+Amended
+2011 c 7 art 6 s 10
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Amended
+2011 c 7 art 6 s 11
+2008 Subd</heading>
+            <content>
+              <p>2
+Amended
+2008 c 366 art 1 s 1
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h
+Amended
+2002 c 377 art 10 s 18
+2001 Subd</heading>
+            <content>
+              <p>2
+Amended
+2001 c 5 art 4 s 3
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a
+Amended
+2001 c 5 art 4 s 4
+2001 Subd</heading>
+            <content>
+              <p>2h
+Amended
+2001 c 5 art 4 s 5
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>j
+Repealed
+2001 c 5 art 7 s 66
+2001 Subd</heading>
+            <content>
+              <p>4
+Amended
+2001 c 5 art 4 s 6
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h
+Amended
+1997 c 84 art 1 s 4
+1997 Subd</heading>
+            <content>
+              <p>2j
+New
+1997 c 231 art 5 s 14
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+1997 c 31 art 1 s 18
+1996 Subd</heading>
+            <content>
+              <p>2h Amended
+1996 c 471 art 3 s 33
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h Amended
+1995 c 264 art 15 s 3
+1995 Subd</heading>
+            <content>
+              <p>2h Amended
+1995 c 264 art 4 s 11
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>i Repealed
+1995 c 264 art 15 s 6
+1995 Subd</heading>
+            <content>
+              <p>3 Amended
+1995 c 264 art 3 s 24
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_6">
+            <num>Subd. 6.</num>
+            <heading>Amended
+1995 c 264 art 15 s 4
+1994 Subd</heading>
+            <content>
+              <p>2 Amended
+1994 c 587 art 4 s 1
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a Amended
+1994 c 587 art 4 s 2
+1994 Subd</heading>
+            <content>
+              <p>2h Amended
+1994 c 587 art 4 s 3
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h Amended
+1994 c 383 s 1
+1994 Subd</heading>
+            <content>
+              <p>6 Amended
+1994 c 587 art 4 s 4
+290A.04 REFUND ALLOWABLE.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Refund</heading>
+            <content>
+              <p>A refund shall be allowed each claimant in the amount that property taxes payable exceed the percentage of the household income of the claimant specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>in the year for which the taxes were levied as specified in subdivision 2</heading>
+            <content>
+              <p>If the amount of property taxes payable is equal to or less than the percentage of the household income of the claimant specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>in the year for which the taxes were levied, the claimant shall not be eligible for a state refund pursuant to this section</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Homeowners; homestead credit refund</heading>
+            <content>
+              <p>A claimant whose property taxes payable are in excess of the percentage of the household income stated below shall pay an amount equal to the percent of income shown for the appropriate household income level along with the percent to be paid by the claimant of the remaining amount of property taxes payable. The state refund equals the amount of property taxes payable that remain, up to the state refund amount shown below.
+Household Income
+Percent of Income
+Percent Paid by
+Claimant
+Maximum
+State
+Refund
+$0 to 2,079
+1.0 percent
+12 percent
+$
+3,310
+2,080 to 4,139
+1.1 percent
+12 percent
+$
+3,310
+4,140 to 6,269
+1.2 percent
+12 percent
+$
+3,310
+6,270 to 8,369
+1.3 percent
+17 percent
+$
+3,310
+8,370 to 10,439
+1.4 percent
+17 percent
+$
+3,310
+10,440 to 14,619
+1.5 percent
+17 percent
+$
+3,310
+14,620 to 16,689
+1.6 percent
+17 percent
+$
+3,310
+16,690 to 18,799
+1.7 percent
+17 percent
+$
+3,310
+18,800 to 20,879
+1.8 percent
+17 percent
+$
+3,310
+20,880 to 22,949
+1.9 percent
+22 percent
+$
+3,310
+22,950 to 29,239
+2.0 percent
+22 percent
+$
+3,310
+29,240 to 31,319
+2.0 percent
+27 percent
+$
+3,310
+31,320 to 35,509
+2.0 percent
+27 percent
+$
+3,310
+35,510 to 50,099
+2.0 percent
+32 percent
+$
+3,310
+50,100 to 73,059
+2.0 percent
+32 percent
+$
+2,680
+73,060 to 83,499
+2.0 percent
+37 percent
+$
+2,350
+83,500 to 93,939
+2.1 percent
+37 percent
+$
+1,940
+93,940 to 104,379
+2.2 percent
+37 percent
+$
+1,740
+104,380 to 114,819
+2.3 percent
+37 percent
+$
+1,520
+114,820 to 121,089
+2.4 percent
+42 percent
+$
+1,280
+121,090 to 125,289
+2.5 percent
+42 percent
+$
+1,070
+125,290 to 130,349
+2.5 percent
+47 percent
+$
+870
+130,350 to 135,409
+2.5 percent
+47 percent
+$
+650
+The payment made to a claimant shall be the amount of the state refund calculated under this subdivision. No payment is allowed if the claimant's household income is $135,410 or more.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a</heading>
+            <content>
+              <p>MS 2022 [Repealed,
+2023 c 64 art 7 s 31
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>b</heading>
+            <content>
+              <p>MS 1984 [Repealed,
+1Sp1985 c 14 art 5 s 7
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>b</heading>
+            <content>
+              <p>Tables may be reconstructed.
+The commissioner may reconstruct the tables in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>for homeowners to reflect the elimination of the homestead credit beginning for claims based on taxes payable in 1990</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>c</heading>
+            <content>
+              <p>[Repealed,
+1983 c 15 s 33
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>d</heading>
+            <content>
+              <p>[Repealed,
+1983 c 15 s 33
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>e</heading>
+            <content>
+              <p>[Repealed,
+1987 c 268 art 3 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>f</heading>
+            <content>
+              <p>[Repealed,
+1Sp1986 c 1 art 3 s 21
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>g</heading>
+            <content>
+              <p>[Repealed,
+1987 c 268 art 3 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>h</heading>
+            <content>
+              <p>Additional refund.</p>
+            </content>
+            <paragraph eId="290A-04__subd_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If the gross property taxes payable on a homestead increase more than 12 percent over the property taxes payable in the prior year on the same property that is owned and occupied by the same owner on January 2 of both years, and the amount of that increase is $100 or more, a claimant who is a homeowner shall be allowed an additional refund equal to 60 percent of the amount of the increase over the greater of 12 percent of the prior year's property taxes payable or $100. This subdivision shall not apply to any increase in the gross property taxes payable attributable to improvements made to the homestead after the assessment date for the prior year's taxes.
+The maximum refund allowed under this subdivision is $1,000.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-04__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For purposes of this subdivision &quot;gross property taxes payable&quot; means property taxes payable determined without regard to the refund allowed under this subdivision.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-04__subd_2__para_c">
+              <num>(c)</num>
+              <content>
+                <p>In addition to the other proofs required by this chapter, each claimant under this subdivision shall file with the property tax refund return a copy of the property tax statement for taxes payable in the preceding year or other documents required by the commissioner.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="290A-04__subd_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>Upon request, the appropriate county official shall make available the names and addresses of the property taxpayers who may be eligible for the additional property tax refund under this section. The information shall be provided electronically. The county may recover its costs by charging the person requesting the information the reasonable cost for preparing the data. The information may not be used for any purpose other than for notifying the homeowner of potential eligibility and assisting the homeowner, without charge, in preparing a refund claim.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>i</heading>
+            <content>
+              <p>[Repealed,
+1995 c 264 art 15 s 6
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>j</heading>
+            <content>
+              <p>[Repealed,
+1Sp2001 c 5 art 7 s 66
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Table</heading>
+            <content>
+              <p>The commissioner of revenue shall construct and make available to taxpayers a comprehensive table showing the property taxes to be paid and refund allowed at various levels of income and assessment. The table shall follow the schedule of income percentages, maximums and other provisions specified in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, except that the commissioner may graduate the transition between income brackets. All refunds shall be computed in accordance with tables prepared and issued by the commissioner of revenue.
+The commissioner shall include on the form an appropriate space or method for the claimant to identify if the property taxes paid are for a manufactured home, as defined in section
+273.125,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_4">
+            <num>Subd. 4.</num>
+            <heading>Inflation adjustment</heading>
+            <content>
+              <p>The commissioner shall annually adjust the dollar amounts of the income thresholds and the maximum refunds under</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_2">
+            <num>Subd. 2.</num>
+            <heading>as provided in section
+270C</heading>
+            <content>
+              <p>22
+. The statutory year is 2023.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Homeowner refund and renter's credit</heading>
+            <content>
+              <p>A claimant is allowed to make a claim for refund under this chapter in addition to any credit the claimant is eligible for under section
+290.0693
+.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_6">
+            <num>Subd. 6.</num>
+            <content>
+              <p>[Renumbered</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-04__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>]
+History:
+1975 c 437 art 1 s 4
+;
+1976 c 245 s 3
+,4;
+1977 c 423 art 2 s 9
+-11;
+1978 c 766 s 9
+,10;
+1979 c 303 art 2 s 31
+-34;
+1980 c 607 art 3 s 2
+;
+1981 c 178 s 114
+,115;
+1Sp1981 c 1 art 2 s 19
+,20;
+1983 c 15 s 29
+;
+1983 c 342 art 4 s 6
+-12;
+1984 c 502 art 3 s 21
+-23;
+1984 c 514 art 4 s 12
+,13;
+1Sp1985 c 14 art 4 s 89
+; art 5 s 2-4;
+1986 c 444
+;
+1987 c 268 art 3 s 4
+-6; art 6 s 48;
+1988 c 719 art 4 s 5
+-7;
+1989 c 356 s 37
+;
+1Sp1989 c 1 art 7 s 1
+-5,9;
+1990 c 480 art 5 s 11
+-13;
+1990 c 604 art 5 s 3
+-5;
+1991 c 199 art 2 s 21
+;
+1991 c 291 art 1 s 34
+;
+1992 c 511 art 2 s 30
+;
+1993 c 375 art 2 s 32
+,33; art 3 s 48; art 6 s 4,5;
+1994 c 383 s 1
+;
+1994 c 587 art 4 s 1
+-4;
+1995 c 264 art 3 s 24
+; art 4 s 11; art 15 s 3,4,6;
+1996 c 471 art 3 s 33
+,52;
+1997 c 31 art 1 s 18
+;
+1997 c 84 art 1 s 4
+;
+1997 c 231 art 2 s 70
+; art 5 s 14;
+1Sp2001 c 5 art 4 s 3
+-6;
+2002 c 377 art 10 s 18
+;
+2008 c 366 art 1 s 1
+;
+1Sp2011 c 7 art 6 s 10
+,11;
+2013 c 143 art 1 s 2
+-4;
+1Sp2019 c 6 art 1 s 65
+,73;
+2023 c 64 art 4 s 2
+,3; art 7 s 17-19;
+2024 c 85 s 92
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-05">
+          <num>290A.05</num>
+          <heading>COMBINED HOUSEHOLD INCOME; RENTAL AGREEMENTS AND REDUCTION OF PROPERTY TAXES PAYABLE</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.05
+290A.045
+290A.055
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.05
+Version List
+Recent History
+2023 290A.05
+Amended
+2023 c 64 art 7 s 20
+2019 290A.05
+Amended
+2019 c 6 art 24 s 16
+290A.05 COMBINED HOUSEHOLD INCOME; RENTAL AGREEMENTS AND REDUCTION OF PROPERTY TAXES PAYABLE.
+(a) If a person occupies a homestead with another person not related to the person as the person's spouse, excluding dependents, roomers or boarders on contract, and has property tax payable with respect to the homestead, the household income of the claimant or claimants for the purpose of computing the refund allowed by section
+290A.04
+shall include the total income received by the other persons residing in the homestead. For purposes of this section, &quot;dependent&quot; includes a parent of the claimant or spouse who lives in the claimant's homestead and does not have an ownership interest in the homestead.
+(b) If a person occupies a homestead with another person or persons not related to the person as the person's spouse or as dependents,and the other person or persons are residing at the homestead under a rental or lease agreement with the homeowner, the amount of property tax payable equals that portion not covered by the rental agreement.
+History:
+1975 c 437 art 1 s 5
+;
+1977 c 423 art 2 s 12
+;
+1983 c 294 s 6
+;
+1984 c 522 s 11
+;
+1991 c 291 art 6 s 42
+;
+1Sp2019 c 6 art 24 s 16
+;
+2023 c 64 art 7 s 20
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-06">
+          <num>290A.06</num>
+          <heading>Section 290A.06</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.06
+290A.055
+290A.07
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.06
+Version List
+290A.06
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-07">
+          <num>290A.07</num>
+          <heading>CLAIMS PAYMENTS</heading>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a
+Amended
+2023 c 64 art 7 s 21
+2005 Subd</heading>
+            <content>
+              <p>5
+New
+2005 c 151 art 3 s 13
+1995 290A.07 Amended
+1995 c 264 art 4 s 13
+1995</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a Amended
+1995 c 264 art 3 s 25
+290A</heading>
+            <content>
+              <p>07 CLAIMS PAYMENTS.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Authority</heading>
+            <content>
+              <p>Allowable claims filed pursuant to the provisions of this chapter shall be paid by the commissioner from the general fund.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1982 c 641 art 2 s 13
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a</heading>
+            <content>
+              <p>Time of payment to manufactured home homeowner.
+A claimant who is a homeowner who occupies a manufactured home, as defined in section
+273.125,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, shall receive full payment after August 1 and before August 15 or 60 days after receipt of the application, whichever is later.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Time of payment to other claimants</heading>
+            <content>
+              <p>A claimant not included in</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a shall receive full payment after September 15 and before September 30</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1981 c 343 s 43
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Early payment; e-file claims</heading>
+            <content>
+              <p>The commissioner may pay a claim up to 30 days earlier than the first permitted date under</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a or 3 if the claim is submitted by electronic means</heading>
+            <content>
+              <p>History:
+1975 c 437 art 1 s 7
+;
+1980 c 419 s 45
+;
+1981 c 178 s 117
+;
+1981 c 343 s 37
+,38;
+1Sp1981 c 3 s 6
+-8;
+1982 c 523 art 1 s 65
+;
+1982 c 641 art 2 s 2
+,3;
+1983 c 342 art 4 s 13
+;
+1984 c 514 art 3 s 9
+,10;
+1Sp1985 c 14 art 15 s 11
+,12;
+1Sp1989 c 1 art 7 s 6
+;
+1990 c 480 art 1 s 36
+,37;
+1993 c 375 art 3 s 48
+;
+1995 c 264 art 3 s 25
+; art 4 s 13;
+1996 c 471 art 3 s 52
+;
+1997 c 231 art 2 s 70
+;
+2005 c 151 art 3 s 13
+;
+2023 c 64 art 7 s 21
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-08">
+          <num>290A.08</num>
+          <heading>ONE CLAIMANT PER HOUSEHOLD</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.08
+290A.07
+290A.09
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.08
+Version List
+Recent History
+2023 290A.08
+Amended
+2023 c 64 art 7 s 22
+2019 290A.08
+Amended
+2019 c 6 art 24 s 17
+1994 290A.08 Amended
+1994 c 510 art 1 s 9
+290A.08 ONE CLAIMANT PER HOUSEHOLD.
+Only one claimant per household per year is entitled to relief under this chapter. Payment of the claim for relief may be made payable to the spouses as one claimant. The commissioner, upon written request, may issue separate checks, to the spouses for one-half of the relief provided the original check has not been issued or has been returned. Individuals related as spouses who were married during the year may elect to file a joint claim which shall include each spouse's income and property taxes payable. Spouses who were married for the entire year and were domiciled in the same household for the entire year must file a joint claim. The maximum dollar amount allowable for a joint claim shall not exceed the amount that one person could receive.
+History:
+1975 c 437 art 1 s 8
+;
+1977 c 423 art 2 s 13
+;
+1981 c 343 s 39
+;
+1Sp1981 c 4 art 1 s 144
+;
+1984 c 514 art 4 s 17
+;
+1994 c 510 art 1 s 9
+;
+1Sp2019 c 6 art 24 s 17
+;
+2023 c 64 art 7 s 22
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-09">
+          <num>290A.09</num>
+          <heading>PROOF OF CLAIM</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.09
+290A.08
+290A.091
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.09
+Version List
+Recent History
+2023 290A.09
+Amended
+2023 c 64 art 7 s 23
+2019 290A.09
+Amended
+2019 c 6 art 24 s 18
+290A.09 PROOF OF CLAIM.
+(a) Every claimant shall supply to the commissioner of revenue, in support of the claim, proof of eligibility under this chapter, including but not limited to amount of property taxes accrued, changes in homestead, household membership, household income, size and nature of property claimed as a homestead.
+(b) For manufactured homes, every claimant shall supply to the commissioner of revenue the name and address of the owner or managing agent of the property rented.
+(c) Persons with a disability filing claims shall submit proof of disability in the form and manner as the commissioner may prescribe. The department may require examination and certification by the claimant's physician or by a physician designated by the commissioner. The cost of any examination shall be borne by the claimant, unless the examination proves the disability, in which case the cost of the examination shall be borne by the commissioner.
+(d) A determination of disability of a claimant by the Social Security Administration under Title II or Title XVI of the Social Security Act shall constitute presumptive proof of disability.
+History:
+1975 c 437 art 1 s 9
+;
+1Sp1981 c 4 art 1 s 145
+;
+1984 c 514 art 4 s 17
+;
+1986 c 444
+;
+2016 c 158 art 1 s 214
+;
+1Sp2019 c 6 art 24 s 18
+;
+2023 c 64 art 7 s 23
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-10">
+          <num>290A.10</num>
+          <heading>PROOF OF TAXES PAID</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.10
+290A.091
+290A.11
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.10
+Version List
+Recent History
+2017 290A.10
+Amended
+2017 c 1 art 17 s 3
+2009 290A.10
+Amended
+2009 c 88 art 7 s 9
+290A.10 PROOF OF TAXES PAID.
+If requested by the commissioner of revenue, a claimant who files a claim for relief for property taxes payable shall provide a property tax statement or a reproduction thereof in a form deemed satisfactory by the commissioner of revenue indicating that there are no delinquent property taxes on the homestead. Indication on the property tax statement from the county treasurer that there are no delinquent taxes on the homestead shall be sufficient proof. Taxes included in a confession of judgment under section
+277.23
+or
+279.37
+shall not constitute delinquent taxes as long as the claimant is current on the payments required to be made under section
+277.23
+or
+279.37
+.
+History:
+1975 c 437 art 1 s 10
+;
+1977 c 423 art 2 s 14
+;
+1986 c 444
+;
+2009 c 88 art 7 s 9
+;
+1Sp2017 c 1 art 17 s 3
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-11">
+          <num>290A.11</num>
+          <heading>OBJECTIONS TO CLAIMS</heading>
+          <subsection eId="290A-11__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-11__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a</heading>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-11__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-11__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-11__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-11__subd_5">
+            <num>Subd. 5.</num>
+            <heading>Assignment of refund</heading>
+            <content>
+              <p>The commissioner shall not honor an assignment by the claimant to another person or entity of a property tax refund prior to the refund check being presented to the claimant.
+History:
+1975 c 437 art 1 s 11
+;
+1976 c 134 s 78
+;
+1977 c 307 s 29
+;
+1978 c 767 s 23
+;
+1980 c 607 art 3 s 4
+;
+1981 c 343 s 40
+,41;
+1Sp1981 c 4 art 1 s 146
+;
+1982 c 523 art 1 s 66
+;
+1983 c 294 s 7
+;
+1984 c 514 art 4 s 17
+;
+1984 c 628 art 3 s 11
+;
+1985 c 210 art 1 s 18
+,19;
+1987 c 268 art 17 s 19
+;
+1988 c 719 art 5 s 84
+;
+1989 c 329 art 13 s 20
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-12">
+          <num>290A.12</num>
+          <heading>Section 290A.12</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.12
+290A.112
+290A.13
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.12
+Version List
+290A.12
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-13">
+          <num>290A.13</num>
+          <heading>NO RELIEF ALLOWED IN CERTAIN CASES</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.13
+290A.12
+290A.14
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.13
+Version List
+Recent History
+2023 290A.13
+Amended
+2023 c 64 art 7 s 25
+290A.13 NO RELIEF ALLOWED IN CERTAIN CASES.
+No claim for relief under this chapter shall be allowed if the commissioner determines that the claimant received title to the homestead primarily for the purpose of receiving benefits under this chapter and not for bona fide residence purposes.
+History:
+1975 c 437 art 1 s 13
+;
+1Sp1981 c 4 art 1 s 147
+;
+1984 c 514 art 4 s 17
+; 1986 c 444;
+2023 c 64 art 7 s 25
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-14">
+          <num>290A.14</num>
+          <heading>PROPERTY TAX STATEMENT</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.14
+290A.13
+290A.15
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.14
+Version List
+Recent History
+2009 290A.14
+Amended
+2009 c 88 art 7 s 10
+1998 290A.14
+Amended
+1998 c 389 art 5 s 2
+290A.14 PROPERTY TAX STATEMENT.
+The county treasurer shall prepare and send a sufficient number of copies of the property tax statement to the owner, and to the owner's escrow agent if the taxes are paid via an escrow account, to enable the owner to comply with the filing requirements of this chapter and to retain one copy as a record. The property tax statement, in a form prescribed by the commissioner, shall indicate the manner in which the claimant may claim relief from the state under both this chapter and chapter 290B, and the amount of the tax for which the applicant may claim relief. The statement shall also indicate if there are delinquent property taxes on the property in the preceding year. Taxes included in a confession of judgment under section
+277.23
+or
+279.37
+shall not constitute delinquent taxes as long as the claimant is current on the payments required to be made under section
+277.23
+or
+279.37
+.
+History:
+1975 c 437 art 1 s 14
+;
+1976 c 334 s 17
+;
+1977 c 423 art 2 s 15
+;
+1986 c 444
+;
+1998 c 389 art 5 s 2
+;
+2009 c 88 art 7 s 10
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-15">
+          <num>290A.15</num>
+          <heading>CLAIM APPLIED AGAINST OUTSTANDING LIABILITY</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.15
+290A.14
+290A.16
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.15
+Version List
+Recent History
+2001 290A.15
+Amended
+2001 c 5 art 7 s 45
+1995 290A.15 Amended
+1995 c 264 art 4 s 14
+290A.15 CLAIM APPLIED AGAINST OUTSTANDING LIABILITY.
+The amount of any claim otherwise payable under this chapter may be applied by the commissioner against any delinquent tax liability of any member of the household. If there are two members of the household, the commissioner may apply only one-half of a refund to the separate liability of either member of the household.
+History:
+1975 c 437 art 1 s 15
+;
+1Sp1981 c 4 art 1 s 148
+;
+1984 c 514 art 4 s 17
+;
+1995 c 264 art 4 s 14
+;
+1996 c 471 art 3 s 52
+;
+1997 c 231 art 2 s 70
+;
+1Sp2001 c 5 art 7 s 45
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-16">
+          <num>290A.16</num>
+          <heading>Section 290A.16</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.16
+290A.15
+290A.17
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.16
+Version List
+290A.16
+[Repealed,
+1984 c 514 art 4 s 18
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-17">
+          <num>290A.17</num>
+          <heading>Section 290A.17</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.17
+290A.16
+290A.18
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.17
+Version List
+290A.17
+[Repealed,
+1989 c 184 art 1 s 20
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-18">
+          <num>290A.18</num>
+          <heading>RIGHT TO FILE CLAIM; RIGHT TO RECEIVE CREDIT</heading>
+          <subsection eId="290A-18__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+1994 c 510 art 1 s 10
+290A</heading>
+            <content>
+              <p>18 RIGHT TO FILE CLAIM; RIGHT TO RECEIVE CREDIT.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-18__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Claim by surviving spouse or dependent</heading>
+            <content>
+              <p>If a person entitled to relief under this chapter dies prior to receiving relief, the surviving spouse or dependent of the person shall be entitled to file the claim and receive relief. If there is no surviving spouse or dependent, the right to the credit shall lapse.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-18__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Claimant cannot be located</heading>
+            <content>
+              <p>If the commissioner cannot locate the claimant within two years from the date that the original warrant was issued, or if a claimant to whom a warrant has been issued does not cash that warrant within two years from the date the warrant was issued, the right to the credit shall lapse, and the warrant shall be deposited in the general fund.
+History:
+1975 c 437 art 1 s 18
+;
+1977 c 423 art 2 s 16
+;
+1980 c 607 art 3 s 6
+;
+1983 c 342 art 4 s 14
+;
+1984 c 514 art 4 s 17
+;
+1987 c 268 art 3 s 9
+;
+1994 c 510 art 1 s 10
+;
+1995 c 264 art 4 s 15
+;
+1996 c 471 art 3 s 52
+;
+1997 c 231 art 2 s 70
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-19">
+          <num>290A.19</num>
+          <heading>PARK OWNER TO FURNISH RENT CERTIFICATE</heading>
+          <subsection eId="290A-19__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, and &quot;property&quot; includes a lot as defined under section
+327C.015,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-19__subd_6">
+            <num>Subd. 6.</num>
+            <content>
+              <p>.</p>
+            </content>
+            <paragraph eId="290A-19__subd_6__para_d">
+              <num>(d)</num>
+              <content>
+                <p>A park owner who fails to furnish the certificate of rent paid to the renter or to the commissioner, as required under this section, is subject to the penalty imposed under section
+289A.60,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="290A-19__subd_12">
+            <num>Subd. 12.</num>
+            <content>
+              <p>.
+History:
+1975 c 437 art 1 s 19
+;
+1977 c 423 art 2 s 17
+;
+1980 c 607 art 3 s 7
+;
+1981 c 104 s 1
+;
+1983 c 289 s 115</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-19__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>;
+1983 c 342 art 4 s 15
+;
+1984 c 595 s 8
+;
+1985 c 210 art 1 s 20
+;
+1Sp1985 c 14 art 5 s 6
+;
+1986 c 444
+;
+1987 c 268 art 3 s 10
+;
+1990 c 480 art 1 s 38
+;
+1990 c 604 art 5 s 6
+;
+1992 c 511 art 7 s 20
+,25;
+1994 c 592 s 1
+;
+1997 c 231 art 5 s 15
+;
+1Sp2017 c 1 art 13 s 13
+;
+2019 c 50 art 1 s 96
+;
+2022 c 55 art 2 s 3
+;
+2023 c 64 art 7 s 26
+; art 18 s 4;
+1Sp2025 c 13 art 8 s 15
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-20">
+          <num>290A.20</num>
+          <heading>RULES</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.20
+290A.19
+290A.21
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.20
+Version List
+290A.20 RULES.
+The commissioner shall promulgate rules which the commissioner deems appropriate for the administration of this chapter and shall also make available forms with instructions for claimants as the commissioner deems necessary for the proper administration of this chapter. The claim shall be in the form the commissioner may prescribe.
+History:
+1975 c 437 art 1 s 20
+;
+1Sp1981 c 4 art 1 s 151
+;
+1984 c 514 art 4 s 17
+;
+1985 c 248 s 70
+; 1986 c 444
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-21">
+          <num>290A.21</num>
+          <heading>Section 290A.21</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.21
+290A.20
+290A.22
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.21
+Version List
+290A.21
+[Repealed,
+1977 c 423 art 2 s 20
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-22">
+          <num>290A.22</num>
+          <heading>Section 290A.22</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.22
+290A.21
+290A.23
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.22
+Version List
+Recent History
+1999 290A.22
+Repealed
+1999 c 159 s 154
+290A.22
+[Repealed,
+1999 c 159 s 154
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-23">
+          <num>290A.23</num>
+          <heading>APPROPRIATION</heading>
+          <subsection eId="290A-23__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Repealed
+2023 c 64 art 7 s 31
+1994 Subd</heading>
+            <content>
+              <p>1 Amended
+1994 c 587 art 4 s 5
+1994</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-23__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Repealed
+1994 c 587 art 3 s 21
+1994 Subd</heading>
+            <content>
+              <p>3 New
+1994 c 587 art 3 s 11
+290A.23 APPROPRIATION.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-23__subd_1">
+            <num>Subd. 1.</num>
+            <heading>MS 2022 [Repealed,
+2023 c 64 art 7 s 31
+]
+§
+Subd</heading>
+            <content>
+              <p>2.
+[Repealed,
+1994 c 587 art 3 s 21
+para</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-23__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Annual appropriation</heading>
+            <content>
+              <p>For payments made after July 1, 1996, there is annually appropriated from the general fund to the commissioner of revenue the amount necessary to make the payments required under section
+290A.04
+, subdivisions 2 and 2h.
+History:
+1977 c 423 art 2 s 18
+;
+1992 c 511 art 1 s 11
+;
+1993 c 375 art 6 s 6
+;
+1994 c 587 art 4 s 5
+;
+1994 c 587 art 3 s 11
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-24">
+          <num>290A.24</num>
+          <heading>Section 290A.24</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.24
+290A.23
+290A.25
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.24
+Version List
+290A.24
+[Repealed,
+1993 c 192 s 110
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-25">
+          <num>290A.25</num>
+          <heading>VERIFICATION OF SOCIAL SECURITY OR INDIVIDUAL TAXPAYER IDENTIFICATION NUMBERS</heading>
+          <subsection eId="290A-25__subd_13">
+            <num>Subd. 13.</num>
+            <heading>b</heading>
+            <content>
+              <p>The county auditor shall send a notice to persons who owned the affected property at the time the homestead application related to the improper homestead was filed, demanding reimbursement of the homestead benefits plus a penalty equal to 100 percent of the homestead benefits. The person notified may appeal the county's determination with the Minnesota Tax Court within 60 days of the date of the notice from the county as provided in section
+273.124,</p>
+            </content>
+          </subsection>
+          <subsection eId="290A-25__subd_13">
+            <num>Subd. 13.</num>
+            <heading>b</heading>
+            <content>
+              <p>If the amount of homestead benefits and penalty is not paid within 60 days, and if no appeal has been filed, the county auditor shall certify the amount of taxes and penalty to the county treasurer. The county treasurer will add interest to the unpaid homestead benefits and penalty amounts at the rate provided for delinquent personal property taxes for the period beginning 60 days after demand for payment was made until payment. If the person notified is the current owner of the property, the treasurer may add the total amount of benefits, penalty, interest, and costs to the real estate taxes otherwise payable on the property in the following year. If the person notified is not the current owner of the property, the treasurer may collect the amounts due under the Revenue Recapture Act in chapter 270A, or use any of the powers granted in sections
+277.20
+and
+277.21
+without exclusion, to enforce payment of the benefits, penalty, interest, and costs, as if those amounts were delinquent tax obligations of the person who owned the property at the time the application related to the improperly allowed homestead was filed. The treasurer may relieve a prior owner of personal liability for the benefits, penalty, interest, and costs, and instead extend those amounts on the tax lists against the property for taxes payable in the following year to the extent that the current owner agrees in writing.
+Any amount of homestead benefits recovered by the county from the property owner shall be distributed to the county, city or town, and school district where the property is located in the same proportion that each taxing district's levy was to the total of the three taxing districts' levy for the current year. Any amount recovered attributable to taconite homestead credit shall be transmitted to the St. Louis County auditor to be deposited in the taconite property tax relief account. Any amount recovered that is attributable to supplemental homestead credit is to be transmitted to the commissioner of revenue for deposit in the general fund of the state treasury. The total amount of penalty collected must be deposited in the county general fund.
+History:
+1992 c 511 art 2 s 31
+;
+1996 c 471 art 3 s 34
+;
+2013 c 82 s 24
+;
+2023 c 64 art 7 s 27
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_290A-26">
+          <num>290A.26</num>
+          <heading>Section 290A.26</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.26
+290A.25
+290A.27
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.26
+Version List
+Recent History
+1997 290A.26
+Repealed
+1997 c 231 art 2 s 70
+1995 290A.26 New
+1995 c 264 art 4 s 16
+290A.26
+[Repealed,
+1997 c 231 art 2 s 70
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-27">
+          <num>290A.27</num>
+          <heading>Section 290A.27</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.27
+290A.26
+290A.28
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.27
+Version List
+Recent History
+2011 290A.27
+Repealed
+2011 c 112 art 5 s 8
+1996 290A.27 New
+1996 c 471 art 3 s 35
+290A.27
+[Repealed,
+2011 c 112 art 5 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-28">
+          <num>290A.28</num>
+          <heading>Section 290A.28</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.28
+290A.27
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.28
+Version List
+Recent History
+2017 290A.28
+Repealed
+2017 c 40 art 1 s 122
+2013 290A.28
+New
+2013 c 143 art 1 s 5
+290A.28
+[Repealed,
+2017 c 40 art 1 s 122
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-045">
+          <num>290A.045</num>
+          <heading>Section 290A.045</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.045
+290A.04
+290A.05
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.045
+Version List
+290A.045
+[Repealed,
+1990 c 604 art 5 s 7
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-055">
+          <num>290A.055</num>
+          <heading>Section 290A.055</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.055
+290A.05
+290A.06
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.055
+Version List
+Recent History
+1997 290A.055
+Repealed
+1997 c 231 art 2 s 70
+1995 290A.055 New
+1995 c 264 art 4 s 12
+290A.055
+[Repealed,
+1997 c 231 art 2 s 70
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-091">
+          <num>290A.091</num>
+          <heading>CLAIMS OF TENANTS IN LEASEHOLD COOPERATIVES</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.091
+290A.09
+290A.10
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.091
+Version List
+Recent History
+2023 290A.091
+Amended
+2023 c 64 art 7 s 24
+290A.091 CLAIMS OF TENANTS IN LEASEHOLD COOPERATIVES.
+The cooperative manager of a leasehold cooperative shall furnish a statement to each tenant by March 31 of the year in which the property tax is payable showing each unit's share of the gross property tax and each unit's share of any property tax credits. Each tenant may apply for a property tax refund under this chapter as a homeowner based on each tenant's share of property taxes. The tenant may not claim the renter's credit under section
+290.0693
+. For the purposes of this section, a leasehold cooperative is formed on the day that leasehold cooperative status is granted by the appropriate county official.
+History:
+1987 c 268 art 3 s 8
+;
+1991 c 291 art 6 s 43
+;
+2023 c 64 art 7 s 24
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-111">
+          <num>290A.111</num>
+          <heading>Section 290A.111</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.111
+290A.11
+290A.112
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.111
+Version List
+290A.111
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_290A-112">
+          <num>290A.112</num>
+          <heading>Section 290A.112</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 290A
+Section 290A.112
+290A.111
+290A.12
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 290A
+Table of Sections
+Full Chapter Text
+Version List
+Section 290A.112
+Version List
+290A.112
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>

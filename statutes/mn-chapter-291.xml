@@ -1,0 +1,3288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="MN-Statutes">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-291"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-291"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#mn-legislature"/>
+          <FRBRcountry value="us-mn"/>
+          <FRBRnumber value="291"/>
+          <FRBRname value="Minnesota-Statutes"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-291/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-291/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-mn/act/statute/chapter-291/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-mn/act/statute/chapter-291/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="mn-legislature" href="https://www.revisor.mn.gov" showAs="Minnesota State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_291">
+        <num>291</num>
+        <heading>Estate Tax</heading>
+        <section eId="sec_291-01">
+          <num>291.01</num>
+          <heading>TAX IMPOSED</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.01
+291.005
+291.015
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.01
+Version List
+291.01 TAX IMPOSED.
+A tax is hereby imposed upon the transfer of estates of decedents as prescribed by this chapter.
+History:
+(
+2292
+)
+1905 c 288 s 1
+;
+1911 c 372 s 1
+;
+1935 c 334 s 1
+;
+Ex1937 c 50 s 3
+;
+1939 c 338 s 1
+;
+1939 c 431 art 6 s 6
+;
+1941 c 470 s 1
+;
+1943 c 504 s 1
+,2;
+1949 c 735 s 1
+;
+1953 c 629 s 1
+;
+1955 c 552 s 1
+;
+1961 c 442 s 1
+;
+1963 c 182 s 1
+;
+1963 c 218 s 1
+;
+1963 c 740 s 1
+,2;
+1965 c 89 s 1
+;
+1965 c 555 s 1
+;
+1967 c 850 s 1
+;
+1978 c 741 s 1
+;
+1979 c 303 art 3 s 2
+;
+1980 c 439 s 5
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-02">
+          <num>291.02</num>
+          <heading>Section 291.02</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.02
+291.016
+291.03
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.02
+Version List
+291.02
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-03">
+          <num>291.03</num>
+          <heading>RATES</heading>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>Amended
+2019 c 6 art 2 s 23
+2019 Subd</heading>
+            <content>
+              <p>10
+Amended
+2019 c 6 art 2 s 24
+2018</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Amended
+2018 c 182 art 1 s 81
+2018 Subd</heading>
+            <content>
+              <p>11
+Amended
+2018 c 182 art 1 s 82
+2017</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2017 c 1 art 1 s 34
+2017 Subd</heading>
+            <content>
+              <p>9
+Amended
+2017 c 1 art 13 s 15
+2017</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Amended
+2017 c 1 art 13 s 16
+2017 Subd</heading>
+            <content>
+              <p>11
+Amended
+2017 c 1 art 1 s 35
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2014 c 150 art 3 s 5
+2014 Subd</heading>
+            <content>
+              <p>1b
+Repealed
+2014 c 150 art 3 s 8
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>c
+Repealed
+2014 c 150 art 3 s 8
+2014 Subd</heading>
+            <content>
+              <p>1d
+New
+2014 c 150 art 3 s 6
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2013 c 143 art 7 s 5
+2013 Subd</heading>
+            <content>
+              <p>1c
+New
+2013 c 143 art 7 s 6
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Amended
+2013 c 143 art 7 s 7
+2013 Subd</heading>
+            <content>
+              <p>9
+Amended
+2013 c 143 art 7 s 8
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_10">
+            <num>Subd. 10.</num>
+            <heading>Amended
+2013 c 143 art 7 s 9
+2013 Subd</heading>
+            <content>
+              <p>11
+Amended
+2013 c 143 art 7 s 10
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2011 c 7 art 1 s 4
+2011 Subd</heading>
+            <content>
+              <p>1b
+Amended
+2011 c 112 art 2 s 4
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>New
+2011 c 7 art 1 s 5
+2011 Subd</heading>
+            <content>
+              <p>9
+New
+2011 c 7 art 1 s 6
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_10">
+            <num>Subd. 10.</num>
+            <heading>New
+2011 c 7 art 1 s 7
+2011 Subd</heading>
+            <content>
+              <p>11
+New
+2011 c 7 art 1 s 8
+2010</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>b
+New
+2010 c 334 s 3
+2008 Subd</heading>
+            <content>
+              <p>1
+Amended
+2008 c 366 art 4 s 15
+2008</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a
+New
+2008 c 366 art 4 s 16
+2005 Subd</heading>
+            <content>
+              <p>1
+Amended
+2005 c 151 art 6 s 20
+2003</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2003 c 127 art 3 s 17
+2002 Subd</heading>
+            <content>
+              <p>1
+Amended
+2002 c 400 s 11
+2002</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2002 c 377 art 12 s 12
+2002 Subd</heading>
+            <content>
+              <p>2
+Repealed
+2002 c 377 art 12 s 18
+291.03 RATES.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Tax amount</heading>
+            <content>
+              <p>The tax imposed must be computed by applying to the Minnesota taxable estate the following schedule of rates and then the resulting amount multiplied by a fraction, not greater than one, the numerator of which is the value of the Minnesota gross estate plus the value of gifts under section
+291.016,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, clause (3), with a Minnesota situs, and the denominator of which is the federal gross estate plus the value of gifts under section
+291.016,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>, clause (3):</p>
+            </content>
+            <paragraph eId="291-03__subd_2__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For estates of decedents dying in 2017:
+Amount of Minnesota Taxable Estate
+Rate of Tax
+Not over $5,100,000
+12 percent
+Over $5,100,000 but not over $7,100,000
+$612,000 plus 12.8 percent of the excess over $5,100,000
+Over $7,100,000 but not over $8,100,000
+$868,000 plus 13.6 percent of the excess over $7,100,000
+Over $8,100,000 but not over $9,100,000
+$1,004,000 plus 14.4 percent of the excess over $8,100,000
+Over $9,100,000 but not over $10,100,000
+$1,148,000 plus 15.2 percent of the excess over $9,100,000
+Over $10,100,000
+$1,300,000 plus 16 percent of the excess over $10,100,000</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_2__para_b">
+              <num>(b)</num>
+              <content>
+                <p>For estates of decedents dying in 2018 and thereafter:
+Amount of Minnesota Taxable Estate
+Rate of Tax
+Not over $7,100,000
+13 percent
+Over $7,100,000 but not over $8,100,000
+$923,000 plus 13.6 percent of the excess over $7,100,000
+Over $8,100,000 but not over $9,100,000
+$1,059,000 plus 14.4 percent of the excess over $8,100,000
+Over $9,100,000 but not over $10,100,000
+$1,203,000 plus 15.2 percent of the excess over $9,100,000
+Over $10,100,000
+$1,355,000 plus 16 percent of the excess over $10,100,000
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>a</heading>
+            <content>
+              <p>Expenses disallowed.
+For the purposes of this section, expenses which are deducted for federal income tax purposes under section 642</p>
+            </content>
+            <paragraph eId="291-03__subd_1__para_g">
+              <num>(g)</num>
+              <content>
+                <p>of the Internal Revenue Code are not allowable in computing the tax under this chapter.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>b</heading>
+            <content>
+              <p>[Repealed,
+2014 c 150 art 3 s 8
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>c</heading>
+            <content>
+              <p>[Repealed,
+2014 c 150 art 3 s 8
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>d</heading>
+            <content>
+              <p>Elections.</p>
+            </content>
+            <paragraph eId="291-03__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For the purposes of this section, the value of the Minnesota taxable estate is determined by taking into account the deduction available under section 2056</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>of the Internal Revenue Code. An election under section 2056</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>of the Internal Revenue Code may be made for Minnesota estate tax purposes regardless of whether the election is made for federal estate tax purposes. The value of the gross estate includes the value of any property in which the decedent had a qualifying income interest for life for which an election was made under this subdivision.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>Except for an election made under section 2056</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>of the Internal Revenue Code, no federal election is allowable in computing the tax under this chapter unless the estate is required to file a federal estate tax return, the election is made on the federal estate tax return, and the election is allowed under federal law.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+2002 c 377 art 12 s 18
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_6">
+            <num>Subd. 6.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_7">
+            <num>Subd. 7.</num>
+            <content>
+              <p>[Repealed, 1Sp1985 c 14 art 13 s 14]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_8">
+            <num>Subd. 8.</num>
+            <heading>Definitions</heading>
+            <paragraph eId="291-03__subd_8__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For purposes of this section, the following terms have the meanings given in this subdivision.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_8__para_b">
+              <num>(b)</num>
+              <content>
+                <p>&quot;Family member&quot; means a family member as defined in section 2032A(e)</p>
+              </content>
+              <subparagraph eId="291-03__subd_8__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>of the Internal Revenue Code, or a trust whose present beneficiaries are all family members as defined in section 2032A</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_8__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>of the Internal Revenue Code.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-03__subd_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>&quot;Qualified heir&quot; means a family member who acquired qualified property upon the death of the decedent and satisfies the requirement under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, clause (8), or</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_10">
+            <num>Subd. 10.</num>
+            <content>
+              <p>, clause (5), for the property.</p>
+            </content>
+            <paragraph eId="291-03__subd_10__para_d">
+              <num>(d)</num>
+              <content>
+                <p>&quot;Qualified property&quot; means qualified small business property under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>and qualified farm property under subdivision 10</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>Qualified small business property</heading>
+            <content>
+              <p>Property satisfying all of the following requirements is qualified small business property:
+(1) The value of the property was included in the federal adjusted taxable estate.
+(2) The property consists of the assets of a trade or business or shares of stock or other ownership interests in a corporation or other entity engaged in a trade or business. Shares of stock in a corporation or an ownership interest in another type of entity do not qualify under this subdivision if the shares or ownership interests are traded on a public stock exchange at any time during the three-year period ending on the decedent's date of death. For purposes of this subdivision, an ownership interest includes the interest the decedent is deemed to own under sections 2036, 2037, 2038, 2040, or 2044 of the Internal Revenue Code.
+(3) During the taxable year that ended before the decedent's death, the trade or business must not have been a passive activity within the meaning of section 469</p>
+            </content>
+            <paragraph eId="291-03__subd_9__para_c">
+              <num>(c)</num>
+              <content>
+                <p>of the Internal Revenue Code, and the decedent or the decedent's spouse must have materially participated in the trade or business within the meaning of section 469</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_9__para_h">
+              <num>(h)</num>
+              <content>
+                <p>of the Internal Revenue Code, excluding section 469(h)</p>
+              </content>
+              <subparagraph eId="291-03__subd_9__para_h__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code and any other provision provided by United States Treasury Department regulation that substitutes material participation in prior taxable years for material participation in the taxable year that ended before the decedent's death.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_9__para_h__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>The gross annual sales of the trade or business were $10,000,000 or less for the last taxable year that ended before the date of the death of the decedent.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_9__para_h__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>The property does not include:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-03__subd_9__para_i">
+              <num>(i)</num>
+              <content>
+                <p>cash;
+(ii) cash equivalents;
+(iii) publicly traded securities; or
+(iv) any assets not used in the operation of the trade or business.</p>
+              </content>
+              <subparagraph eId="291-03__subd_9__para_i__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>For property consisting of shares of stock or other ownership interests in an entity, the value of items described in clause</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_9__para_i__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>must be excluded in the valuation of the decedent's interest in the entity.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_9__para_i__subpara_7">
+                <num>(7)</num>
+                <content>
+                  <p>The decedent or the decedent's spouse continuously owned the property, or an undivided or joint interest in the property, including property the decedent or the decedent's spouse is deemed to own under sections 2036, 2037, 2038, 2040, or 2044 of the Internal Revenue Code, or under</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>d, for the three-year period ending on the date of death of the decedent</heading>
+            <content>
+              <p>In the case of a sole proprietor, if the property replaced similar property within the three-year period, the replacement property will be treated as having been owned for the three-year period ending on the date of death of the decedent. For the purposes of the three-year holding period under this clause, any ownership by the decedent's spouse, whether the spouse predeceases or survives the decedent, is attributed to the decedent.
+(8) For three years following the date of death of the decedent, the trade or business is not a passive activity within the meaning of section 469</p>
+            </content>
+            <paragraph eId="291-03__subd_1__para_c">
+              <num>(c)</num>
+              <content>
+                <p>of the Internal Revenue Code, and a family member materially participates in the operation of the trade or business within the meaning of section 469</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_1__para_h">
+              <num>(h)</num>
+              <content>
+                <p>of the Internal Revenue Code, excluding section 469(h)</p>
+              </content>
+              <subparagraph eId="291-03__subd_1__para_h__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code and any other provision provided by United States Treasury Department regulation that substitutes material participation in prior taxable years for material participation in the three years following the date of death of the decedent.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-03__subd_1__para_h__subpara_9">
+                <num>(9)</num>
+                <content>
+                  <p>The estate and the qualified heir elect to treat the property as qualified small business property and agree, in the form prescribed by the commissioner, to pay the recapture tax under</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_11">
+            <num>Subd. 11.</num>
+            <content>
+              <p>, if applicable.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_10">
+            <num>Subd. 10.</num>
+            <heading>Qualified farm property</heading>
+            <content>
+              <p>Property satisfying all of the following requirements is qualified farm property:
+(1) The value of the property was included in the federal adjusted taxable estate.
+(2) The property consists of agricultural land and is owned by a person or entity that is either not subject to or is in compliance with section
+500.24
+.
+(3) For property taxes payable in the taxable year of the decedent's death, the property is classified as class 2a property under section
+273.13,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_23">
+            <num>Subd. 23.</num>
+            <content>
+              <p>, and is classified as agricultural homestead, agricultural relative homestead, or special agricultural homestead under section
+273.124
+.
+(4) The decedent or the decedent's spouse continuously owned the property, or an undivided or joint interest in the property, including property the decedent or the decedent's spouse is deemed to own under sections 2036, 2037, 2038, 2040, or 2044 of the Internal Revenue Code, or under</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_1">
+            <num>Subd. 1.</num>
+            <heading>d, for the three-year period ending on the date of death of the decedent either by ownership of the agricultural land or pursuant to holding an interest in an entity that is not subject to or is in compliance with section
+500</heading>
+            <content>
+              <p>24
+. For the purposes of the three-year holding period under this clause, any ownership by the decedent's spouse, whether the spouse predeceases or survives the decedent, is attributed to the decedent.
+(5) The property is classified for property tax purposes as class 2a property under section
+273.13,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_23">
+            <num>Subd. 23.</num>
+            <content>
+              <p>, for three years following the date of death of the decedent.
+(6) The estate and the qualified heir elect to treat the property as qualified farm property and agree, in a form prescribed by the commissioner, to pay the recapture tax under</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_11">
+            <num>Subd. 11.</num>
+            <content>
+              <p>, if applicable.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_11">
+            <num>Subd. 11.</num>
+            <heading>Recapture tax</heading>
+            <paragraph eId="291-03__subd_11__para_a">
+              <num>(a)</num>
+              <content>
+                <p>If, within three years after the decedent's death and before the death of the qualified heir, the qualified heir disposes of any interest in the qualified property, other than by a disposition to a family member, or a family member ceases to satisfy the requirement under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, clause (8); or 10, clause (5), an additional estate tax is imposed on the property. In the case of a sole proprietor, if the qualified heir replaces qualified small business property excluded under</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_9">
+            <num>Subd. 9.</num>
+            <heading>with similar property, then the qualified heir will not be treated as having disposed of an interest in the qualified property</heading>
+            <paragraph eId="291-03__subd_9__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The amount of the additional tax equals the amount of the exclusion claimed by the estate under</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_8">
+            <num>Subd. 8.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+            <paragraph eId="291-03__subd_8__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The additional tax under this subdivision is due on the day which is six months after the date of the disposition or cessation in paragraph (a).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-03__subd_8__para_d">
+              <num>(d)</num>
+              <content>
+                <p>The tax under this subdivision does not apply to the acquisition of title or possession of the qualified property by a federal, state, or local government unit, or any other entity with the power of eminent domain for a public purpose, as defined in section
+117.025
+,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_11">
+            <num>Subd. 11.</num>
+            <content>
+              <p>, within the three-year holding period.</p>
+            </content>
+            <paragraph eId="291-03__subd_11__para_e">
+              <num>(e)</num>
+              <content>
+                <p>This subdivision shall not apply as a result of any of the following:</p>
+              </content>
+              <subparagraph eId="291-03__subd_11__para_e__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>a portion of qualified farm property consisting of less than one-fifth of the acreage of the property is reclassified as class 2b property under section
+273.13,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-03__subd_23">
+            <num>Subd. 23.</num>
+            <content>
+              <p>, and the qualified heir has not substantially altered the reclassified property during the three-year holding period; or
+(2) a portion of qualified farm property classified as class 2a property at the death of the decedent pursuant to section
+273.13,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-03__subd_23">
+            <num>Subd. 23.</num>
+            <content>
+              <p>, paragraph</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-04">
+          <num>291.04</num>
+          <heading>Section 291.04</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.04
+291.031
+291.05
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.04
+Version List
+291.04
+[Repealed,
+Ex1959 c 70 art 4 s 2
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-005">
+          <num>291.005</num>
+          <heading>DEFINITIONS</heading>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2023 c 64 art 2 s 6
+2023 Subd</heading>
+            <content>
+              <p>1
+Amended
+2023 c 1 s 21
+2019</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2019 c 6 art 1 s 66
+2017 Subd</heading>
+            <content>
+              <p>1
+Amended
+2017 c 1 art 1 s 32
+2017</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2017 c 1 s 8
+2015 Subd</heading>
+            <content>
+              <p>1
+Amended
+2015 c 1 s 5
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2014 c 308 art 4 s 17
+2014 Subd</heading>
+            <content>
+              <p>1
+Amended
+2014 c 150 art 3 s 3
+2013</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2013 c 143 art 7 s 4
+2011 Subd</heading>
+            <content>
+              <p>1
+Amended
+2011 c 7 art 2 s 9
+2011</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2011 c 7 art 1 s 3
+2010 Subd</heading>
+            <content>
+              <p>1
+Amended
+2010 c 334 s 2
+2010</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2010 c 216 s 15
+2009 Subd</heading>
+            <content>
+              <p>1
+Amended
+2009 c 88 art 1 s 13
+2009</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2009 c 12 art 1 s 11
+2008 Subd</heading>
+            <content>
+              <p>1
+Amended
+2008 c 154 art 4 s 9
+2006</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2006 c 259 art 2 s 8
+2005 Subd</heading>
+            <content>
+              <p>1
+Amended
+2005 c 151 art 6 s 19
+2003</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2003 c 127 art 3 s 16
+2002 Subd</heading>
+            <content>
+              <p>1
+Amended
+2002 c 377 art 12 s 11
+2001</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2001 c 5 art 10 s 10
+2000 Subd</heading>
+            <content>
+              <p>1
+Amended
+2000 c 490 art 12 s 5
+1999</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1999 c 243 art 3 s 6
+1998 Subd</heading>
+            <content>
+              <p>1
+Amended
+1998 c 389 art 7 s 11
+1997</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+1997 c 231 art 6 s 22
+1996 Subd</heading>
+            <content>
+              <p>1 Amended
+1996 c 471 art 4 s 5
+291.005 DEFINITIONS.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Scope</heading>
+            <content>
+              <p>Unless the context otherwise clearly requires, the following terms used in this chapter shall have the following meanings:
+(1) &quot;Commissioner&quot; means the commissioner of revenue or any person to whom the commissioner has delegated functions under this chapter.
+(2) &quot;Federal gross estate&quot; means the gross estate of a decedent as required to be valued and otherwise determined for federal estate tax purposes under the Internal Revenue Code, increased by the value of any property in which the decedent had a qualifying income interest for life and for which an election was made under section
+291.03,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-005__subd_1">
+            <num>Subd. 1.</num>
+            <heading>d
+, for Minnesota estate tax purposes, but was not made for federal estate tax purposes</heading>
+            <content>
+              <p>(3) &quot;Internal Revenue Code&quot; means the United States Internal Revenue Code of 1986, as amended through May 1, 2023.
+(4) &quot;Minnesota gross estate&quot; means the federal gross estate of a decedent after</p>
+            </content>
+            <paragraph eId="291-005__subd_1__para_a">
+              <num>(a)</num>
+              <content>
+                <p>excluding therefrom any property included in the estate which has its situs outside Minnesota, and</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-005__subd_1__para_b">
+              <num>(b)</num>
+              <content>
+                <p>including any property omitted from the federal gross estate which is includable in the estate, has its situs in Minnesota, and was not disclosed to federal taxing authorities.</p>
+              </content>
+              <subparagraph eId="291-005__subd_1__para_b__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>&quot;Nonresident decedent&quot; means an individual whose domicile at the time of death was not in Minnesota.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-005__subd_1__para_b__subpara_6">
+                <num>(6)</num>
+                <content>
+                  <p>&quot;Personal representative&quot; means the executor, administrator or other person appointed by the court to administer and dispose of the property of the decedent. If there is no executor, administrator or other person appointed, qualified, and acting within this state, then any person in actual or constructive possession of any property having a situs in this state which is included in the federal gross estate of the decedent shall be deemed to be a personal representative to the extent of the property and the Minnesota estate tax due with respect to the property.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-005__subd_1__para_b__subpara_7">
+                <num>(7)</num>
+                <content>
+                  <p>&quot;Resident decedent&quot; means an individual whose domicile at the time of death was in Minnesota. The provisions of section
+290.01,</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-005__subd_7">
+            <num>Subd. 7.</num>
+            <content>
+              <p>, paragraphs</p>
+            </content>
+            <paragraph eId="291-005__subd_7__para_c">
+              <num>(c)</num>
+              <content>
+                <p>and (d), apply to determinations of domicile under this chapter.</p>
+              </content>
+              <subparagraph eId="291-005__subd_7__para_c__subpara_8">
+                <num>(8)</num>
+                <content>
+                  <p>&quot;Situs of property&quot; means, with respect to:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-005__subd_7__para_i">
+              <num>(i)</num>
+              <content>
+                <p>real property, the state or country in which it is located;
+(ii) tangible personal property, the state or country in which it was normally kept or located at the time of the decedent's death or for a gift of tangible personal property within three years of death, the state or country in which it was normally kept or located when the gift was executed;
+(iii) a qualified work of art, as defined in section 2503(g)</p>
+              </content>
+              <subparagraph eId="291-005__subd_7__para_i__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>of the Internal Revenue Code, owned by a nonresident decedent and that is normally kept or located in this state because it is on loan to an organization, qualifying as exempt from taxation under section 501</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-005__subd_7__para_i__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>of the Internal Revenue Code, that is located in Minnesota, the situs of the art is deemed to be outside of Minnesota, notwithstanding the provisions of item (ii); and
+(iv) intangible personal property, the state or country in which the decedent was domiciled at death or for a gift of intangible personal property within three years of death, the state or country in which the decedent was domiciled when the gift was executed.
+For a nonresident decedent with an ownership interest in a pass-through entity with assets that include real or tangible personal property, situs of the real or tangible personal property, including qualified works of art, is determined as if the pass-through entity does not exist and the real or tangible personal property is personally owned by the decedent. If the pass-through entity is owned by a person or persons in addition to the decedent, ownership of the property is attributed to the decedent in proportion to the decedent's capital ownership share of the pass-through entity.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-005__subd_7__para_i__subpara_9">
+                <num>(9)</num>
+                <content>
+                  <p>&quot;Pass-through entity&quot; includes the following:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-005__subd_7__para_i">
+              <num>(i)</num>
+              <content>
+                <p>an entity electing S corporation status under section 1362 of the Internal Revenue Code;
+(ii) an entity taxed as a partnership under subchapter K of the Internal Revenue Code;
+(iii) a single-member limited liability company or similar entity, regardless of whether it is taxed as an association or is disregarded for federal income tax purposes under Code of Federal Regulations, title 26, section 301.7701-3; or
+(iv) a trust to the extent the property is includable in the decedent's federal gross estate; but excludes</p>
+              </content>
+            </paragraph>
+            <paragraph eId="291-005__subd_7__para_v">
+              <num>(v)</num>
+              <content>
+                <p>an entity whose ownership interest securities are traded on an exchange regulated by the Securities and Exchange Commission as a national securities exchange under section 6 of the Securities Exchange Act, United States Code, title 15, section 78f.
+§</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-005__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Incorporation by reference of Uniform Probate Code definitions</heading>
+            <content>
+              <p>The definitions set forth in section
+524.1-201
+, wherever appropriate to the administration of the provisions of this chapter are incorporated by reference.
+History:
+1963 c 740 s 26
+;
+1973 c 185 s 1
+;
+1973 c 582 s 3
+;
+1975 c 347 s 2
+;
+1979 c 303 art 3 s 1
+;
+1980 c 439 s 4
+;
+1981 c 49 s 2
+;
+3Sp1981 c 2 art 6 s 1
+;
+1983 c 222 s 22
+;
+1Sp1985 c 14 art 13 s 2
+;
+1986 c 444
+;
+1989 c 28 s 23
+;
+1990 c 604 art 2 s 16
+;
+1991 c 291 art 6 s 46
+;
+1992 c 511 art 6 s 19
+;
+1993 c 375 art 8 s 14
+;
+1994 c 587 art 1 s 24
+;
+1995 c 264 art 1 s 4
+;
+1996 c 471 art 4 s 5
+;
+1997 c 231 art 6 s 22
+;
+1998 c 389 art 7 s 11
+;
+1999 c 243 art 3 s 6
+;
+2000 c 490 art 12 s 5
+;
+1Sp2001 c 5 art 10 s 10
+;
+2002 c 377 art 12 s 11
+;
+2003 c 127 art 3 s 16
+;
+2005 c 151 art 6 s 19
+;
+2006 c 259 art 2 s 8
+;
+2008 c 154 art 4 s 9
+;
+2009 c 12 art 1 s 11
+;
+2009 c 88 art 1 s 13
+;
+2010 c 216 s 15
+;
+2010 c 334 s 2
+;
+1Sp2011 c 7 art 1 s 3
+; art 2 s 9;
+2013 c 143 art 7 s 4
+;
+2014 c 150 art 3 s 3
+;
+2014 c 308 art 4 s 17
+;
+2015 c 1 s 5
+;
+2017 c 1 s 8
+;
+1Sp2017 c 1 art 1 s 32
+;
+1Sp2019 c 6 art 1 s 66
+;
+2023 c 1 s 21
+;
+2023 c 64 art 2 s 6
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-05">
+          <num>291.05</num>
+          <heading>Section 291.05</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.05
+291.04
+291.051
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.05
+Version List
+291.05
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-06">
+          <num>291.06</num>
+          <heading>Section 291.06</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.06
+291.051
+291.065
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.06
+Version List
+291.06
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-07">
+          <num>291.07</num>
+          <heading>Section 291.07</heading>
+          <subsection eId="291-07__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-07__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+;
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-07__subd_2">
+            <num>Subd. 2.</num>
+            <heading>a</heading>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+;
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-07__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1983 c 222 s 45
+;
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-08">
+          <num>291.08</num>
+          <heading>Section 291.08</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.08
+291.075
+291.09
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.08
+Version List
+291.08
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-09">
+          <num>291.09</num>
+          <heading>Section 291.09</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.09
+291.08
+291.10
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.09
+Version List
+291.09
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-10">
+          <num>291.10</num>
+          <heading>Section 291.10</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.10
+291.09
+291.11
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.10
+Version List
+291.10
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-11">
+          <num>291.11</num>
+          <heading>Section 291.11</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.11
+291.10
+291.111
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.11
+Version List
+291.11
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-12">
+          <num>291.12</num>
+          <heading>COLLECTION OF TAX BY REPRESENTATIVE OR TRUSTEE</heading>
+          <subsection eId="291-12__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Requirement</heading>
+            <content>
+              <p>Any representative or trustee who has in possession or under control, property, the transfer of which is subject to any tax imposed by this chapter and from which such tax may lawfully be paid by the representative or trustee, shall either deduct the amount of tax due or shall collect from the person entitled to such property, the amount of tax due, together with any accrued interest thereon, before completing the transfer of such property or making delivery thereof and shall pay to the commissioner all taxes and interest so deducted or collected.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-12__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Liability</heading>
+            <content>
+              <p>Any representative or trustee having in possession or under control any property to which a person, from whom a tax is known by such representative or trustee to be due under the provisions of this chapter, is entitled, shall be personally liable for the payment of such tax and any interest accrued, to the extent of the value of such property; provided, however, that there shall be no such liability if such property cannot be lawfully used by the representative or trustee for the payment of such taxes or interest.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-12__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Effect on duty to transfer or deliver property</heading>
+            <content>
+              <p>No representative or trustee shall be required to transfer or deliver any property in possession or under control unless all taxes and interest due from the person entitled thereto under the provisions of this chapter have either been deducted or collected by the representative or trustee or paid by the transferee to the commissioner.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-12__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+History:
+(
+2295
+)
+1905 c 288 s 4
+;
+1939 c 338 s 4
+;
+1943 c 504 s 6
+;
+1953 c 628 s 1
+;
+1963 c 740 s 6
+; 1986 c 444
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-13">
+          <num>291.13</num>
+          <heading>TAXES TO BE PAID TO COMMISSIONER OF REVENUE</heading>
+          <subsection eId="291-13__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Requirement</heading>
+            <content>
+              <p>All taxes imposed by this chapter shall be paid to the commissioner.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-13__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1978 c 766 s 20
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-13__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Deposit in general fund</heading>
+            <content>
+              <p>All taxes paid under the provisions of this chapter shall be deposited by the commissioner in the state treasury, and shall belong to and be a part of the general fund of the state.
+History:
+(
+2296
+)
+1905 c 288 s 5
+;
+1939 c 338 s 5
+;
+1943 c 593 s 1
+;
+1953 c 630 s 1
+;
+1963 c 740 s 7
+;
+1969 c 399 s 49
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-14">
+          <num>291.14</num>
+          <heading>Section 291.14</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.14
+291.132
+291.15
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.14
+Version List
+291.14
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-015">
+          <num>291.015</num>
+          <heading>Section 291.015</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.015
+291.01
+291.016
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.015
+Version List
+291.015
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-15">
+          <num>291.15</num>
+          <heading>Section 291.15</heading>
+          <subsection eId="291-15__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-15__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-15__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-016">
+          <num>291.016</num>
+          <heading>MINNESOTA TAXABLE ESTATE</heading>
+          <subsection eId="291-016__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Amended
+2017 c 1 art 13 s 14
+2017 Subd</heading>
+            <content>
+              <p>3
+Amended
+2017 c 1 art 1 s 33
+2014 291.016
+New
+2014 c 150 art 3 s 4
+2014</p>
+            </content>
+          </subsection>
+          <subsection eId="291-016__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2014 c 308 art 4 s 18
+291</heading>
+            <content>
+              <p>016 MINNESOTA TAXABLE ESTATE.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-016__subd_1">
+            <num>Subd. 1.</num>
+            <heading>General</heading>
+            <content>
+              <p>For purposes of the tax under this chapter, the Minnesota taxable estate equals the federal taxable estate as provided under section 2051 of the Internal Revenue Code, without regard to whether the estate is subject to the federal estate tax:
+(1) increased by the value of any property in which the decedent had a qualifying income interest for life and for which an election was made under section
+291.03
+,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-016__subd_1">
+            <num>Subd. 1.</num>
+            <heading>d, for Minnesota estate tax purposes, but was not made for federal estate tax purposes;
+(2) increased by the additions under subdivision 2; and
+(3) decreased by the subtraction under subdivision 3</heading>
+            <content>
+              <p>§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-016__subd_2">
+            <num>Subd. 2.</num>
+            <heading>Additions</heading>
+            <content>
+              <p>The following amounts, to the extent deducted in computing or otherwise excluded from the federal taxable estate, must be added in computing the Minnesota taxable estate:
+(1) the amount of the deduction for state death taxes allowed under section 2058 of the Internal Revenue Code;
+(2) the amount of the deduction for foreign death taxes allowed under section 2053</p>
+            </content>
+            <paragraph eId="291-016__subd_2__para_d">
+              <num>(d)</num>
+              <content>
+                <p>of the Internal Revenue Code; and</p>
+              </content>
+              <subparagraph eId="291-016__subd_2__para_d__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>the aggregate amount of taxable gifts as defined in section 2503 of the Internal Revenue Code, made by the decedent within three years of the date of death. For purposes of this clause, the amount of the addition equals the value of the gift under section 2512 of the Internal Revenue Code and excludes any value of the gift included in the federal estate.
+§</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-016__subd_3">
+            <num>Subd. 3.</num>
+            <heading>Subtraction</heading>
+            <paragraph eId="291-016__subd_3__para_a">
+              <num>(a)</num>
+              <content>
+                <p>For estates of decedents dying after December 31, 2016, a subtraction is allowed in computing the Minnesota taxable estate, equal to the sum of:</p>
+              </content>
+              <subparagraph eId="291-016__subd_3__para_a__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>the exclusion amount for the year of death under paragraph</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-016__subd_3__para_a__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>the lesser of:</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-016__subd_3__para_i">
+              <num>(i)</num>
+              <content>
+                <p>the value of qualified small business property under section
+291.03,</p>
+              </content>
+            </paragraph>
+          </subsection>
+          <subsection eId="291-016__subd_9">
+            <num>Subd. 9.</num>
+            <content>
+              <p>, and the value of qualified farm property under section
+291.03,</p>
+            </content>
+          </subsection>
+          <subsection eId="291-016__subd_10">
+            <num>Subd. 10.</num>
+            <content>
+              <p>; or
+(ii) $5,000,000 minus the exclusion amount for the year of death under paragraph</p>
+            </content>
+            <paragraph eId="291-016__subd_10__para_b">
+              <num>(b)</num>
+              <content>
+                <p>The following exclusion amounts apply for the year of death:</p>
+              </content>
+              <subparagraph eId="291-016__subd_10__para_b__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>$2,100,000 for decedents dying in 2017;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-016__subd_10__para_b__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>$2,400,000 for decedents dying in 2018;</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-016__subd_10__para_b__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>$2,700,000 for decedents dying in 2019; and</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="291-016__subd_10__para_b__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>$3,000,000 for decedents dying in 2020 and thereafter.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="291-016__subd_10__para_c">
+              <num>(c)</num>
+              <content>
+                <p>The subtraction under this subdivision must not reduce the Minnesota taxable estate to less than zero.
+History:
+2014 c 150 art 3 s 4
+;
+2014 c 308 art 4 s 18
+;
+1Sp2017 c 1 art 1 s 33
+; art 13 s 14
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+              </content>
+            </paragraph>
+          </subsection>
+        </section>
+        <section eId="sec_291-16">
+          <num>291.16</num>
+          <heading>POWER OF SALE</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.16
+291.15
+291.17
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.16
+Version List
+291.16 POWER OF SALE.
+Every executor, administrator, or trustee shall have full power to sell the property embraced in any inheritance, devise, bequest, or legacy to pay the tax imposed by this chapter, in the same manner as entitled by law to do for the payment of the debts of a testator or intestate.
+History:
+(
+2299
+)
+1905 c 288 s 8
+; 1986 c 444
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-17">
+          <num>291.17</num>
+          <heading>Section 291.17</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.17
+291.16
+291.18
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.17
+Version List
+291.17
+[Repealed,
+1980 c 439 s 35
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-18">
+          <num>291.18</num>
+          <heading>Section 291.18</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.18
+291.17
+291.19
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.18
+Version List
+291.18
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-19">
+          <num>291.19</num>
+          <heading>Section 291.19</heading>
+          <subsection eId="291-19__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_5">
+            <num>Subd. 5.</num>
+            <heading>MS 1945 [Repealed,
+1947 c 556 s 3
+]
+§
+Subd</heading>
+            <content>
+              <p>5.
+MS 1978 [Repealed,
+1979 c 303 art 3 s 41
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_6">
+            <num>Subd. 6.</num>
+            <content>
+              <p>[Repealed,
+1947 c 556 s 3
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-19__subd_7">
+            <num>Subd. 7.</num>
+            <content>
+              <p>[Repealed,
+1947 c 556 s 3
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-20">
+          <num>291.20</num>
+          <heading>Section 291.20</heading>
+          <subsection eId="291-20__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-20__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-20__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+;
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-20__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+;
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-21">
+          <num>291.21</num>
+          <heading>LETTERS OF ADMINISTRATION</heading>
+          <subsection eId="291-21__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Rights of commissioner</heading>
+            <content>
+              <p>The commissioner shall have the same rights to apply for letters of administration as are conferred upon creditors by law.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-21__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+History:
+(
+2304
+)
+1905 c 288 s 13
+;
+1911 c 209 s 3
+;
+1939 c 338 s 7
+;
+1939 c 431 art 6 s 6
+;
+1943 c 504 s 9
+;
+1943 c 593 s 4
+;
+1963 c 740 s 10
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-22">
+          <num>291.22</num>
+          <heading>Section 291.22</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.22
+291.215
+291.23
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.22
+Version List
+291.22
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-23">
+          <num>291.23</num>
+          <heading>Section 291.23</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.23
+291.22
+291.24
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.23
+Version List
+291.23
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-24">
+          <num>291.24</num>
+          <heading>Section 291.24</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.24
+291.23
+291.25
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.24
+Version List
+291.24
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-25">
+          <num>291.25</num>
+          <heading>Section 291.25</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.25
+291.24
+291.26
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.25
+Version List
+291.25
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-26">
+          <num>291.26</num>
+          <heading>Section 291.26</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.26
+291.25
+291.27
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.26
+Version List
+291.26
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-27">
+          <num>291.27</num>
+          <heading>UNPAID TAX; OMITTED PROPERTY</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.27
+291.26
+291.29
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.27
+Version List
+291.27 UNPAID TAX; OMITTED PROPERTY.
+Any tax due and unpaid under the provisions of this chapter may be enforced and collected from any transferee of property included in the Minnesota estate by action in the court of administration of the estate of the decedent or in a court of general jurisdiction by the personal representative of any estate, the attorney general, or the commissioner in the name of the state.
+Any property which for any cause is omitted from the Minnesota estate tax return so that its value is not taken into consideration in the determination of the estate tax, may be subsequently taxed against the persons receiving the same, or any part thereof, to the same effect as if included in the estate tax return, except that any personal representative of an estate discharged in the meantime shall not be liable for the payment of such tax. When any property has been omitted in the determination of an estate tax, the tax thereon may be determined and recovered in a civil action brought by the attorney general or the commissioner, in the name of the state, in any court of general jurisdiction.
+History:
+(
+2311
+)
+1905 c 288 s 20
+;
+1913 c 574 s 3
+;
+1939 c 338 s 10
+;
+1939 c 431 art 6 s 6
+;
+1947 c 519 s 1
+;
+1963 c 740 s 15
+;
+1979 c 303 art 3 s 25
+; 1986 c 444
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-29">
+          <num>291.29</num>
+          <heading>Section 291.29</heading>
+          <subsection eId="291-29__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-29__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-29__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-29__subd_4">
+            <num>Subd. 4.</num>
+            <content>
+              <p>[Repealed,
+1979 c 303 art 3 s 41
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-29__subd_5">
+            <num>Subd. 5.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-30">
+          <num>291.30</num>
+          <heading>Section 291.30</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.30
+291.29
+291.31
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.30
+Version List
+291.30
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-031">
+          <num>291.031</num>
+          <heading>CREDIT</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.031
+291.03
+291.04
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.031
+Version List
+Recent History
+2016 291.031
+Amended
+2016 c 158 art 1 s 161
+2014 291.031
+Amended
+2014 c 308 art 4 s 19
+2014 291.031
+New
+2014 c 150 art 3 s 7
+291.031 CREDIT.
+(a) The estate of a nonresident decedent that is subject to tax under this chapter on the value of Minnesota situs property held in a pass-through entity is allowed a credit against the tax due under section
+291.03
+equal to the lesser of:
+(1) the amount of estate or inheritance tax paid to another state that is attributable to the Minnesota situs property held in the pass-through entity; or
+(2) the amount of tax due under section
+291.03
+attributable to the Minnesota situs property held in the pass-through entity.
+(b) The amount of tax attributable to the Minnesota situs property held in the pass-through entity must be determined by the increase in the estate or inheritance tax that results from including the market value of the property in the estate or treating the value as a taxable inheritance to the recipient of the property.
+History:
+2014 c 150 art 3 s 7
+;
+2014 c 308 art 4 s 19
+;
+2016 c 158 art 1 s 161
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-31">
+          <num>291.31</num>
+          <heading>Section 291.31</heading>
+          <subsection eId="291-31__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-31__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 2 s 18
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-32">
+          <num>291.32</num>
+          <heading>Section 291.32</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.32
+291.31
+291.33
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.32
+Version List
+291.32
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-33">
+          <num>291.33</num>
+          <heading>Section 291.33</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.33
+291.32
+291.34
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.33
+Version List
+291.33
+[Repealed,
+1Sp1981 c 1 art 3 s 4
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-34">
+          <num>291.34</num>
+          <heading>Section 291.34</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.34
+291.33
+291.35
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.34
+Version List
+291.34
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-35">
+          <num>291.35</num>
+          <heading>Section 291.35</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.35
+291.34
+291.36
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.35
+Version List
+291.35
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-36">
+          <num>291.36</num>
+          <heading>Section 291.36</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.36
+291.35
+291.37
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.36
+Version List
+291.36
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-37">
+          <num>291.37</num>
+          <heading>Section 291.37</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.37
+291.36
+291.38
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.37
+Version List
+291.37
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-38">
+          <num>291.38</num>
+          <heading>Section 291.38</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.38
+291.37
+291.39
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.38
+Version List
+291.38
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-39">
+          <num>291.39</num>
+          <heading>Section 291.39</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.39
+291.38
+291.40
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.39
+Version List
+291.39
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-40">
+          <num>291.40</num>
+          <heading>Section 291.40</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.40
+291.39
+291.41
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.40
+Version List
+291.40
+[Repealed,
+1979 c 303 art 3 s 41
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-41">
+          <num>291.41</num>
+          <heading>Section 291.41</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.41
+291.40
+291.42
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.41
+Version List
+Recent History
+2014 291.41
+Repealed
+2014 c 150 art 3 s 8
+291.41
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-42">
+          <num>291.42</num>
+          <heading>Section 291.42</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.42
+291.41
+291.43
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.42
+Version List
+Recent History
+2014 291.42
+Repealed
+2014 c 150 art 3 s 8
+291.42
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-43">
+          <num>291.43</num>
+          <heading>Section 291.43</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.43
+291.42
+291.44
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.43
+Version List
+Recent History
+2014 291.43
+Repealed
+2014 c 150 art 3 s 8
+291.43
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-44">
+          <num>291.44</num>
+          <heading>Section 291.44</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.44
+291.43
+291.45
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.44
+Version List
+Recent History
+2014 291.44
+Repealed
+2014 c 150 art 3 s 8
+291.44
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-45">
+          <num>291.45</num>
+          <heading>Section 291.45</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.45
+291.44
+291.46
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.45
+Version List
+Recent History
+2014 291.45
+Repealed
+2014 c 150 art 3 s 8
+291.45
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-46">
+          <num>291.46</num>
+          <heading>Section 291.46</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.46
+291.45
+291.47
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.46
+Version List
+Recent History
+2014 291.46
+Repealed
+2014 c 150 art 3 s 8
+291.46
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-47">
+          <num>291.47</num>
+          <heading>Section 291.47</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.47
+291.46
+291.48
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.47
+Version List
+Recent History
+2014 291.47
+Repealed
+2014 c 150 art 3 s 8
+291.47
+[Repealed,
+2014 c 150 art 3 s 8
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-48">
+          <num>291.48</num>
+          <heading>Section 291.48</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.48
+291.47
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.48
+Version List
+291.48
+[Repealed,
+1989 c 184 art 1 s 20
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-051">
+          <num>291.051</num>
+          <heading>Section 291.051</heading>
+          <subsection eId="291-051__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-051__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+3Sp1981 c 2 art 6 s 7
+;
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-051__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+3Sp1981 c 2 art 6 s 7
+;
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-065">
+          <num>291.065</num>
+          <heading>Section 291.065</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.065
+291.06
+291.07
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.065
+Version List
+291.065
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-075">
+          <num>291.075</num>
+          <heading>SPECIAL USE VALUATION OF QUALIFIED PROPERTY</heading>
+          <subsection eId="291-075__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>.
+History:
+1979 c 303 art 3 s 10
+;
+1980 c 439 s 13
+;
+1Sp1985 c 14 art 13 s 4
+;
+1Sp2017 c 1 art 17 s 4
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-111">
+          <num>291.111</num>
+          <heading>Section 291.111</heading>
+          <subsection eId="291-111__subd_1">
+            <num>Subd. 1.</num>
+            <content>
+              <p>[Repealed,
+1980 c 439 s 35
+;
+1Sp1985 c 14 art 13 s 14
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-111__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_291-131">
+          <num>291.131</num>
+          <heading>Section 291.131</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.131
+291.13
+291.132
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.131
+Version List
+291.131
+[Repealed,
+1990 c 480 art 1 s 45
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-132">
+          <num>291.132</num>
+          <heading>Section 291.132</heading>
+          <content>
+            <p>2025 Minnesota Statutes
+VARIOUS STATE TAXES AND PROGRAMS
+Chapter 291
+Section 291.132
+291.131
+291.14
+2025 Minnesota Statutes
+Authenticate
+PDF
+Resources
+Search Minnesota Statutes
+About Minnesota Statutes
+2025 Statutes New, Amended or Repealed
+2025 Table of Chapters
+2025 Statutes Topics (Index)
+Chapter 291
+Table of Sections
+Full Chapter Text
+Version List
+Section 291.132
+Version List
+291.132
+[Repealed,
+1Sp1985 c 14 art 13 s 14
+]
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+          </content>
+        </section>
+        <section eId="sec_291-215">
+          <num>291.215</num>
+          <heading>VALUATION OF ESTATE</heading>
+          <subsection eId="291-215__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Amended
+2008 c 154 art 7 s 1
+291</heading>
+            <content>
+              <p>215 VALUATION OF ESTATE.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-215__subd_1">
+            <num>Subd. 1.</num>
+            <heading>Determination</heading>
+            <content>
+              <p>All property includable in the Minnesota gross estate of a decedent shall be valued in accordance with the provisions of sections 2031 or 2032 and, if applicable, 2032A, of the Internal Revenue Code and any elections made in valuing the federal gross estate shall be applicable in valuing the Minnesota gross estate. The value of all property includable in the Minnesota gross estate of a decedent may be independently determined under those sections for Minnesota estate tax purposes except:
+(1) as otherwise provided in section
+291.075
+; or
+(2) if the Internal Revenue Service, after receiving the estate's federal estate tax return, either conducts a separate appraisal of an asset reported on the return or proposes a change in the reported valuation of an asset in the estate, in which case the federal final determination of the value controls.
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-215__subd_2">
+            <num>Subd. 2.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+§</p>
+            </content>
+          </subsection>
+          <subsection eId="291-215__subd_3">
+            <num>Subd. 3.</num>
+            <content>
+              <p>[Repealed,
+1990 c 480 art 1 s 45
+]
+History:
+1979 c 303 art 3 s 24
+;
+1980 c 439 s 22
+;
+1983 c 222 s 28
+;
+1Sp1985 c 14 art 13 s 11
+;
+1986 c 444
+;
+2008 c 154 art 7 s 1
+Official Publication of the State of Minnesota
+Revisor of Statutes</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
